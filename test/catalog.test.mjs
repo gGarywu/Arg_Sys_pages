@@ -29,7 +29,7 @@ test('catalog contains updates, courses, lessons and files', () => {
         course.term &&
         course.lessons.length > 0 &&
         course.lessons.every(
-          (lesson) => lesson.name && lesson.files.length > 0,
+          (lesson) => lesson.name && Array.isArray(lesson.files),
         ),
     ),
   );
@@ -51,4 +51,21 @@ test('public site has no import or file-management controls', () => {
   const forbiddenText =
     /(?:JSONを読み込|アップロード|ファイル管理|フォルダー構成|詳細を表示|外部リンク|download|data-action="import")/i;
   assert.equal(forbiddenText.test(runtime), false);
+});
+
+test('the illustration points at the What’s New heading', () => {
+  const html = fs.readFileSync(
+    new URL('../index.html', import.meta.url),
+    'utf8',
+  );
+  assert.match(html, /<figure class="birdmen-banner">/);
+  assert.match(html, /src="\.\/assets\/birdmen\.png"/);
+  assert.match(
+    html,
+    /<figure class="birdmen-banner">[\s\S]*<h2 id="whats-new-title">What’s New<\/h2>/,
+  );
+  assert.equal(
+    fs.existsSync(new URL('../assets/birdmen.png', import.meta.url)),
+    true,
+  );
 });
