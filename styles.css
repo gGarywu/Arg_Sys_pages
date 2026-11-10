@@ -131,62 +131,14 @@ h1 {
   font-size: 1rem;
 }
 
-.birdmen-banner {
-  position: relative;
-  width: 100%;
-  margin: 0 0 54px;
-  aspect-ratio: 2 / 1;
-  overflow: hidden;
-  background: transparent;
-}
-
-.birdmen-banner img {
-  width: 100%;
-  height: 100%;
-  display: block;
-  object-fit: cover;
-  object-position: center top;
-}
-
 .whats-new-section {
-  padding-top: 0;
-  border-top: 0;
+  overflow: hidden;
 }
 
-.whats-new-target {
-  position: absolute;
-  left: 46%;
-  top: 43%;
-  min-width: 250px;
-  max-width: 36%;
-  padding: 18px 26px 20px;
-  color: var(--ink);
-  border: 3px solid var(--ink);
-  background: #f5d24f;
-  box-shadow: 8px 8px 0 var(--ink);
-  text-align: center;
-  transform: translate(-50%, -50%) rotate(-2deg);
-}
-
-.whats-new-target span {
-  display: block;
-  margin-bottom: 5px;
-  font-size: 0.64rem;
-  font-weight: 850;
-  letter-spacing: 0.15em;
-}
-
-.whats-new-target h2 {
-  margin: 0;
-  font-size: clamp(2rem, 5vw, 3.8rem);
-  line-height: 0.98;
-  letter-spacing: -0.055em;
-}
-
-.whats-new-target p {
-  margin: 9px 0 0;
-  font-size: 0.8rem;
-  font-weight: 700;
+.whats-new-scene {
+  position: relative;
+  min-height: 480px;
+  padding: 38px 0 30px;
 }
 
 .section {
@@ -214,15 +166,44 @@ h1 {
 }
 
 .updates {
-  border-top: 1px solid var(--ink);
+  position: relative;
+  z-index: 1;
+  margin: 0 215px 0 165px;
+  display: grid;
+  gap: 12px;
 }
 
 .update-item {
-  padding: 26px 0;
+  padding: 23px 24px;
   display: grid;
-  grid-template-columns: 120px minmax(180px, 0.7fr) 1.3fr;
-  gap: 28px;
-  border-bottom: 1px solid var(--line);
+  grid-template-columns: 100px minmax(160px, 0.7fr) 1.3fr;
+  gap: 22px;
+  border: 1px solid var(--line);
+  border-radius: 12px;
+  background: rgba(255, 253, 247, 0.94);
+}
+
+.birdman {
+  position: absolute;
+  z-index: 3;
+  display: block;
+  height: auto;
+  pointer-events: none;
+  user-select: none;
+}
+
+.birdman-left {
+  left: -52px;
+  bottom: -12px;
+  width: 225px;
+  transform: rotate(-2deg);
+}
+
+.birdman-right {
+  right: -72px;
+  top: -34px;
+  width: 345px;
+  transform: rotate(1deg);
 }
 
 .update-item time {
@@ -355,33 +336,38 @@ footer {
 }
 
 @media (max-width: 700px) {
-  .birdmen-banner {
-    margin-bottom: 46px;
-    aspect-ratio: 4 / 3;
+  .whats-new-scene {
+    min-height: 0;
+    padding-top: 0;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: flex-end;
   }
 
-  .whats-new-target {
-    left: 47%;
-    top: 40%;
-    width: 42%;
-    min-width: 0;
-    max-width: none;
-    padding: 10px 12px 12px;
-    border-width: 2px;
-    box-shadow: 4px 4px 0 var(--ink);
+  .birdman {
+    position: relative;
+    inset: auto;
+    height: 190px;
+    width: auto;
+    object-fit: contain;
   }
 
-  .whats-new-target span {
-    margin-bottom: 3px;
-    font-size: 0.5rem;
+  .birdman-left {
+    margin-left: -12px;
+    transform: rotate(-2deg);
   }
 
-  .whats-new-target h2 {
-    font-size: clamp(1.35rem, 7vw, 2rem);
+  .birdman-right {
+    height: 210px;
+    margin-left: auto;
+    margin-right: -20px;
+    transform: rotate(1deg);
   }
 
-  .whats-new-target p {
-    display: none;
+  .updates {
+    order: 3;
+    width: 100%;
+    margin: -22px 0 0;
   }
 
   .update-item {
@@ -427,10 +413,6 @@ footer {
 
   .section {
     padding: 72px 0;
-  }
-
-  .whats-new-section {
-    padding-top: 0;
   }
 
   .section-heading {

@@ -18,9 +18,11 @@ await fs.copyFile(
   path.join(dist, 'data', 'catalog.json'),
 );
 
-await fs.copyFile(
-  path.join(root, 'assets', 'birdmen.png'),
-  path.join(dist, 'assets', 'birdmen.png'),
-);
+for (const file of ['birdman-left.png', 'birdman-right.png']) {
+  await fs.copyFile(
+    path.join(root, 'assets', file),
+    path.join(dist, 'assets', file),
+  );
+}
 
 console.log('Built static site in dist/');

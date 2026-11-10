@@ -53,19 +53,15 @@ test('public site has no import or file-management controls', () => {
   assert.equal(forbiddenText.test(runtime), false);
 });
 
-test('the illustration points at the What’s New heading', () => {
+test('separate character layers point at the update list', () => {
   const html = fs.readFileSync(
     new URL('../index.html', import.meta.url),
     'utf8',
   );
-  assert.match(html, /<figure class="birdmen-banner">/);
-  assert.match(html, /src="\.\/assets\/birdmen\.png"/);
-  assert.match(
-    html,
-    /<figure class="birdmen-banner">[\s\S]*<h2 id="whats-new-title">What’s New<\/h2>/,
-  );
-  assert.equal(
-    fs.existsSync(new URL('../assets/birdmen.png', import.meta.url)),
-    true,
-  );
+  assert.match(html, /src="\.\/assets\/birdman-left\.png"/);
+  assert.match(html, /src="\.\/assets\/birdman-right\.png"/);
+  assert.match(html, /<div class="whats-new-scene">[\s\S]*<div class="updates"/);
+  for (const file of ['birdman-left.png', 'birdman-right.png']) {
+    assert.equal(fs.existsSync(new URL(`../assets/${file}`, import.meta.url)), true);
+  }
 });
