@@ -202,10 +202,11 @@ h1 {
 .birdman-left {
   grid-column: 1;
   justify-self: end;
+  align-self: end;
   width: 320px;
   height: 270px;
-  margin-right: -42px;
-  transform: rotate(-1deg);
+  margin-right: -105px;
+  transform: translateY(42px) rotate(-1deg);
 }
 
 .birdman-right {
