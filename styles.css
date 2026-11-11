@@ -191,7 +191,7 @@ h1 {
 
 .birdman {
   position: relative;
-  z-index: 3;
+  z-index: 5;
   display: block;
   width: 250px;
   height: 225px;
