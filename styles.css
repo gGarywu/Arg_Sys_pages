@@ -171,21 +171,22 @@ h1 {
 
 .updates {
   position: relative;
-  z-index: 1;
+  z-index: 4;
   grid-column: 2;
   margin: 0;
   display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(min(100%, 220px), 1fr));
   gap: 12px;
 }
 
 .update-item {
-  padding: 23px 24px;
+  padding: 18px 20px;
   display: grid;
-  grid-template-columns: 100px minmax(160px, 0.7fr) 1.3fr;
-  gap: 22px;
+  align-content: start;
+  gap: 5px;
   border: 1px solid var(--line);
   border-radius: 12px;
-  background: rgba(255, 253, 247, 0.94);
+  background: var(--surface);
 }
 
 .birdman {
@@ -347,7 +348,7 @@ footer {
   letter-spacing: 0.1em;
 }
 
-@media (max-width: 700px) {
+@media (max-width: 1000px) {
   .whats-new-scene {
     min-height: 0;
     padding-top: 0;
@@ -356,6 +357,7 @@ footer {
   }
 
   .birdman {
+    grid-row: 1;
     width: 100%;
     height: 165px;
     object-fit: contain;
@@ -376,15 +378,13 @@ footer {
 
   .updates {
     grid-column: 1 / -1;
+    grid-row: 2;
     width: 100%;
     margin: -12px 0 0;
   }
+}
 
-  .update-item {
-    grid-template-columns: 1fr;
-    gap: 5px;
-  }
-
+@media (max-width: 700px) {
   .course-card summary {
     grid-template-columns: 1fr 22px;
   }

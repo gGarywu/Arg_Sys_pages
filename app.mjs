@@ -33,7 +33,11 @@ function countFiles(courses) {
 function renderUpdates(updates) {
   elements.updates.replaceChildren();
 
-  for (const update of updates) {
+  const latestUpdates = [...updates]
+    .sort((a, b) => String(b.date ?? '').localeCompare(String(a.date ?? '')))
+    .slice(0, 2);
+
+  for (const update of latestUpdates) {
     const item = document.createElement('article');
     item.className = 'update-item';
 
