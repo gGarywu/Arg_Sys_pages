@@ -1,4 +1,4 @@
-const catalogPath = './data/catalog.json';
+const catalogPath = './data/catalog.json?v=20261112-links';
 
 const elements = {
   courseCount: document.querySelector('#courseCount'),

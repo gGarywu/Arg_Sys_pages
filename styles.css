@@ -331,8 +331,9 @@ h1 {
 }
 
 .file-list a {
-  color: inherit;
-  text-decoration-color: color-mix(in srgb, currentColor 30%, transparent);
+  color: var(--ink);
+  cursor: pointer;
+  text-decoration-color: color-mix(in srgb, var(--accent) 70%, transparent);
   text-decoration-thickness: 1px;
   text-underline-offset: 0.24em;
   transition: color 140ms ease, text-decoration-color 140ms ease;

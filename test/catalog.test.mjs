@@ -81,6 +81,21 @@ test('legacy rendering still receives plain file-name strings', () => {
   assert.equal(files.some((file) => file === '[object Object]'), false);
 });
 
+test('page loads the link renderer with a cache-busting version', () => {
+  const html = fs.readFileSync(
+    new URL('../index.html', import.meta.url),
+    'utf8',
+  );
+  const runtime = fs.readFileSync(
+    new URL('../app.mjs', import.meta.url),
+    'utf8',
+  );
+
+  assert.match(html, /src="\.\/app\.mjs\?v=20261112-links"/);
+  assert.match(runtime, /document\.createElement\('a'\)/);
+  assert.match(runtime, /lesson\.file_links\?\.\[fileName\]/);
+});
+
 test('public site has no import or file-management controls', () => {
   const runtime = ['../index.html', '../app.mjs']
     .map((file) => fs.readFileSync(new URL(file, import.meta.url), 'utf8'))
