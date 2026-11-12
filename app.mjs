@@ -102,7 +102,9 @@ function renderCourses(courses) {
       for (const file of lesson.files) {
         const listItem = document.createElement('li');
         const fileName = typeof file === 'string' ? file : file.name;
-        const fileUrl = typeof file === 'object' ? file.url : null;
+        const fileUrl =
+          lesson.file_links?.[fileName] ??
+          (typeof file === 'object' ? file.url : null);
 
         if (fileUrl) {
           const link = document.createElement('a');

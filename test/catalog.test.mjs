@@ -32,12 +32,9 @@ test('catalog contains updates, courses, lessons and files', () => {
           (lesson) =>
             lesson.name &&
             Array.isArray(lesson.files) &&
-            lesson.files.every(
-              (file) =>
-                file &&
-                typeof file.name === 'string' &&
-                typeof file.url === 'string',
-            ),
+            lesson.files.every((file) => typeof file === 'string') &&
+            lesson.file_links &&
+            typeof lesson.file_links === 'object',
         ),
     ),
   );
@@ -54,10 +51,16 @@ test('public catalog excludes private identifiers and local locations', () => {
 
 test('every listed file has a unique Google Drive link', () => {
   const files = catalog.courses.flatMap((course) =>
-    course.lessons.flatMap((lesson) => lesson.files),
+    course.lessons.flatMap((lesson) =>
+      lesson.files.map((name) => ({
+        name,
+        url: lesson.file_links[name],
+      })),
+    ),
   );
 
   assert.equal(files.length, 277);
+  assert(files.every((file) => typeof file.url === 'string'));
   assert.equal(new Set(files.map((file) => file.url)).size, files.length);
 
   for (const file of files) {
@@ -67,6 +70,15 @@ test('every listed file has a unique Google Drive link', () => {
       url.hostname === 'drive.google.com' || url.hostname === 'docs.google.com',
     );
   }
+});
+
+test('legacy rendering still receives plain file-name strings', () => {
+  const files = catalog.courses.flatMap((course) =>
+    course.lessons.flatMap((lesson) => lesson.files),
+  );
+
+  assert.equal(files.every((file) => typeof file === 'string'), true);
+  assert.equal(files.some((file) => file === '[object Object]'), false);
 });
 
 test('public site has no import or file-management controls', () => {
