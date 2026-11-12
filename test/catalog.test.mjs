@@ -29,19 +29,44 @@ test('catalog contains updates, courses, lessons and files', () => {
         course.term &&
         course.lessons.length > 0 &&
         course.lessons.every(
-          (lesson) => lesson.name && Array.isArray(lesson.files),
+          (lesson) =>
+            lesson.name &&
+            Array.isArray(lesson.files) &&
+            lesson.files.every(
+              (file) =>
+                file &&
+                typeof file.name === 'string' &&
+                typeof file.url === 'string',
+            ),
         ),
     ),
   );
 });
 
-test('public catalog excludes identifiers, locations and outbound links', () => {
+test('public catalog excludes private identifiers and local locations', () => {
   const forbiddenKey =
-    /(?:url|path|owner|email|account|file_id|folder_id|system_id|mime|parent_id)/i;
+    /(?:path|owner|email|account|file_id|folder_id|system_id|mime|parent_id)/i;
   assert.equal(
     collectKeys(catalog).some((key) => forbiddenKey.test(key)),
     false,
   );
+});
+
+test('every listed file has a unique Google Drive link', () => {
+  const files = catalog.courses.flatMap((course) =>
+    course.lessons.flatMap((lesson) => lesson.files),
+  );
+
+  assert.equal(files.length, 277);
+  assert.equal(new Set(files.map((file) => file.url)).size, files.length);
+
+  for (const file of files) {
+    const url = new URL(file.url);
+    assert.equal(url.protocol, 'https:');
+    assert(
+      url.hostname === 'drive.google.com' || url.hostname === 'docs.google.com',
+    );
+  }
 });
 
 test('public site has no import or file-management controls', () => {

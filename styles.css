@@ -330,6 +330,20 @@ h1 {
   background: var(--accent);
 }
 
+.file-list a {
+  color: inherit;
+  text-decoration-color: color-mix(in srgb, currentColor 30%, transparent);
+  text-decoration-thickness: 1px;
+  text-underline-offset: 0.24em;
+  transition: color 140ms ease, text-decoration-color 140ms ease;
+}
+
+.file-list a:hover,
+.file-list a:focus-visible {
+  color: var(--accent);
+  text-decoration-color: currentColor;
+}
+
 .loading,
 .error-message {
   padding: 26px 0;

@@ -101,7 +101,19 @@ function renderCourses(courses) {
 
       for (const file of lesson.files) {
         const listItem = document.createElement('li');
-        listItem.textContent = file;
+        const fileName = typeof file === 'string' ? file : file.name;
+        const fileUrl = typeof file === 'object' ? file.url : null;
+
+        if (fileUrl) {
+          const link = document.createElement('a');
+          link.href = fileUrl;
+          link.target = '_blank';
+          link.rel = 'noopener noreferrer';
+          link.textContent = fileName;
+          listItem.append(link);
+        } else {
+          listItem.textContent = fileName;
+        }
         fileList.append(listItem);
       }
 
