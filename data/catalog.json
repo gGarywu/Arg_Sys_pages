@@ -1,6 +1,11 @@
 {
-  "updated_at": "2026-11-11",
+  "updated_at": "2026-11-16",
   "whats_new": [
+    {
+      "date": "2026-11-16",
+      "title": "講義の録音と実習の文字起こしを追加しました",
+      "description": "2026年度後期の講義録音7件と、物理化学実習（項目1〜3の演習）の文字起こし関連資料3件を追加しました。15科目・287件を掲載しています。"
+    },
     {
       "date": "2026-11-11",
       "title": "科目・授業回・実習項目を再確認しました",
@@ -166,6 +171,15 @@
             "衛生化学1_第6回_録音（2）.m4a": "https://drive.google.com/file/d/1YLzboe3L7ylGDa2L0nuCbUPsTFEhF0Vo/view?usp=drivesdk",
             "衛生化学1_第6回_録音（3）.m4a": "https://drive.google.com/file/d/1xMBMfmXopt9DIy_YtaqDH3W_bY5UdqH5/view?usp=drivesdk"
           }
+        },
+        {
+          "name": "第7回",
+          "files": [
+            "衛生化学1_第7回_録音.m4a"
+          ],
+          "file_links": {
+            "衛生化学1_第7回_録音.m4a": "https://drive.google.com/file/d/1-Zmt77L6hzBA0lGuvsLVO2Dh_ueiPkjY/view?usp=drivesdk"
+          }
         }
       ]
     },
@@ -275,6 +289,15 @@
           ],
           "file_links": {
             "構造化学_第5回_録音.m4a": "https://drive.google.com/file/d/1SZPA5PZnh6r7yi_T-Ka-IBJq3bNHqVsG/view?usp=drivesdk"
+          }
+        },
+        {
+          "name": "第6回",
+          "files": [
+            "構造化学_第6回_録音.m4a"
+          ],
+          "file_links": {
+            "構造化学_第6回_録音.m4a": "https://drive.google.com/file/d/1g8rscZudT4VIduOjEPgkiD3tLYrTQ5ch/view?usp=drivesdk"
           }
         }
       ]
@@ -405,6 +428,19 @@
             "構造薬学実習_物理化学_項目3_紫外可視吸収スペクトル・実験操作.mp4": "https://drive.google.com/file/d/1RkqqtwhrHKo6vW3ACHz_AE51-BNh4FE4/view?usp=drivesdk",
             "構造薬学実習_物理化学_項目3_紫外可視吸収スペクトル・概要説明.mp4": "https://drive.google.com/file/d/1aEbKVXRGs0n1iYC2MNVdiYUy10-t9r10/view?usp=drivesdk",
             "構造薬学実習_物理化学_項目3_pKa決定・コンゴーレッド吸光度測定記録.xlsx": "https://docs.google.com/spreadsheets/d/1UjzfH4Wv3j948R4AP5RLSwMArtmu6iPd/edit?usp=drivesdk&ouid=114343932978320321222&rtpof=true&sd=true"
+          }
+        },
+        {
+          "name": "物理化学実習：項目1-3_演習",
+          "files": [
+            "構造薬学実習_物理化学_項目1-3_演習_文字起こし.txt",
+            "構造薬学実習_物理化学_項目1-3_演習_文字起こし（タイムスタンプ付き）.txt",
+            "構造薬学実習_物理化学_項目1-3_演習_文字起こし（再生HTML）.html"
+          ],
+          "file_links": {
+            "構造薬学実習_物理化学_項目1-3_演習_文字起こし.txt": "https://drive.google.com/file/d/1CknLyijSKAMdyrzhamJUN3W_AycCOcKC/view?usp=drivesdk",
+            "構造薬学実習_物理化学_項目1-3_演習_文字起こし（タイムスタンプ付き）.txt": "https://drive.google.com/file/d/10y8Xl04tmB04l-hNCrhHYVz8nmPjFPIh/view?usp=drivesdk",
+            "構造薬学実習_物理化学_項目1-3_演習_文字起こし（再生HTML）.html": "https://drive.google.com/file/d/1kx1Nc1JC4S4r9VnsvmNTp1E7hJXRSbwv/view?usp=drivesdk"
           }
         },
         {
@@ -602,6 +638,15 @@
             "物理化学2_第4回_界面活性剤の構造・性質・分子集合体形成.pdf": "https://drive.google.com/file/d/1i4GAk7WFGGndxsSU6jZ6dmFDiFFmfWEB/view?usp=drivesdk",
             "物理化学2_第4回_録音.m4a": "https://drive.google.com/file/d/1s0HNAWxRHLhdBYcmvNpxnhN9-60uLr3X/view?usp=drivesdk"
           }
+        },
+        {
+          "name": "第6回",
+          "files": [
+            "物理化学2_第6回_録音.m4a"
+          ],
+          "file_links": {
+            "物理化学2_第6回_録音.m4a": "https://drive.google.com/file/d/1FGaNZPvfZvIT25KTmjXDoAOgSH0YgX5k/view?usp=drivesdk"
+          }
         }
       ]
     },
@@ -668,6 +713,15 @@
           ],
           "file_links": {
             "分析化学_第5回_録音.m4a": "https://drive.google.com/file/d/1wM6fHYHrM-kFe7RYyDNoHw0DaaTTcec8/view?usp=drivesdk"
+          }
+        },
+        {
+          "name": "第6回",
+          "files": [
+            "分析化学2_第6回_録音.m4a"
+          ],
+          "file_links": {
+            "分析化学2_第6回_録音.m4a": "https://drive.google.com/file/d/1YjEnAxpTaYQhAk6qvGF_7X9RDYlG3YGb/view?usp=drivesdk"
           }
         }
       ]
@@ -756,6 +810,15 @@
           ],
           "file_links": {
             "放射化学_第6回_録音.m4a": "https://drive.google.com/file/d/1aiDNUsrRAYLouQkrpOxFi134YWRPHMrH/view?usp=drivesdk"
+          }
+        },
+        {
+          "name": "第7回",
+          "files": [
+            "放射化学_第7回_録音.m4a"
+          ],
+          "file_links": {
+            "放射化学_第7回_録音.m4a": "https://drive.google.com/file/d/1v8z5aVs6c5m0ssyXLxLc_fW8ufKoXMfw/view?usp=drivesdk"
           }
         }
       ]
@@ -880,10 +943,12 @@
           "name": "第6回",
           "files": [
             "薬剤学2_第6回_モーメント解析・コンボリューション解析.pdf",
+            "薬剤学2_第6回_録音.m4a",
             "薬剤学2_第6回_録音.mp4"
           ],
           "file_links": {
             "薬剤学2_第6回_モーメント解析・コンボリューション解析.pdf": "https://drive.google.com/file/d/1BWwohPPd_PXoTlq0b0djMXvo0glzB7Qc/view?usp=drivesdk",
+            "薬剤学2_第6回_録音.m4a": "https://drive.google.com/file/d/1F5POjB_3NtDBM_mPvJ9Dbwoz_DisSHSZ/view?usp=drivesdk",
             "薬剤学2_第6回_録音.mp4": "https://drive.google.com/file/d/1F82wvyT7MqObmY9NjZohOjyZAfEFhV_9/view?usp=drivesdk"
           }
         },
@@ -1232,6 +1297,15 @@
           "file_links": {
             "有機化学4_第5回_エノール・エノラートの化学2.pdf": "https://drive.google.com/file/d/1e_xoMzGrt0J8ssjaXegwebN56HzltzmI/view?usp=drivesdk",
             "有機化学4_第5回_録音.m4a": "https://drive.google.com/file/d/1E9WW0ykx7lunHyG0WmQyPdeIv5XrD3MJ/view?usp=drivesdk"
+          }
+        },
+        {
+          "name": "第6回",
+          "files": [
+            "有機化学4_第6回_録音.m4a"
+          ],
+          "file_links": {
+            "有機化学4_第6回_録音.m4a": "https://drive.google.com/file/d/1--PcNnASLDiSVB-5Q6hDQKsqYn0-CQK0/view?usp=drivesdk"
           }
         }
       ]
