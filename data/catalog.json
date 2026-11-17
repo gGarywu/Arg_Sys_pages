@@ -1,6 +1,11 @@
 {
-  "updated_at": "2026-11-16",
+  "updated_at": "2026-11-18",
   "whats_new": [
+    {
+      "date": "2026-11-18",
+      "title": "文字起こしと講義資料照合版を追加しました",
+      "description": "講義録音1件、文字起こし関連資料87件、校訂版13件を追加しました。薬剤学2の録音と文字起こしを第7回に移し、15科目・388件を掲載しています。"
+    },
     {
       "date": "2026-11-16",
       "title": "講義の録音と実習の文字起こしを追加しました",
@@ -70,10 +75,16 @@
           "name": "第3回",
           "files": [
             "医薬品化学_第3回_創薬化学の基礎・化学構造と薬理活性1.pdf",
+            "医薬品化学_第3回_文字起こし.txt",
+            "医薬品化学_第3回_文字起こし（タイムスタンプ付き）.txt",
+            "医薬品化学_第3回_文字起こし（再生HTML）.html",
             "医薬品化学_第3回_録音.m4a"
           ],
           "file_links": {
             "医薬品化学_第3回_創薬化学の基礎・化学構造と薬理活性1.pdf": "https://drive.google.com/file/d/1q9zL-DALsAzHNmu2-czkVsb2etd_ZSAF/view?usp=drivesdk",
+            "医薬品化学_第3回_文字起こし.txt": "https://drive.google.com/file/d/1HS5eyX6cekqRwTHbGE7sWj6mnJEj8Q52/view?usp=drivesdk",
+            "医薬品化学_第3回_文字起こし（タイムスタンプ付き）.txt": "https://drive.google.com/file/d/1JGWQWKFzdydrueIvc6ZFue68X5f94yCw/view?usp=drivesdk",
+            "医薬品化学_第3回_文字起こし（再生HTML）.html": "https://drive.google.com/file/d/1nnWz7DiliUdLcSIYmAdOFEtKttv447Qi/view?usp=drivesdk",
             "医薬品化学_第3回_録音.m4a": "https://drive.google.com/file/d/1nkYGGF0vPjVGOQxLySHWSX3bMIWh5a82/view?usp=drivesdk"
           }
         },
@@ -81,19 +92,31 @@
           "name": "第4回",
           "files": [
             "医薬品化学_第4回_化学構造と薬理活性・タンパク質の有機化学.pdf",
+            "医薬品化学_第4回_文字起こし.txt",
+            "医薬品化学_第4回_文字起こし（タイムスタンプ付き）.txt",
+            "医薬品化学_第4回_文字起こし（再生HTML）.html",
             "医薬品化学_第4回_録音.m4a"
           ],
           "file_links": {
             "医薬品化学_第4回_化学構造と薬理活性・タンパク質の有機化学.pdf": "https://drive.google.com/file/d/1i9PfdZPt735rrdQis-rr4zyGBY1z-EGa/view?usp=drivesdk",
+            "医薬品化学_第4回_文字起こし.txt": "https://drive.google.com/file/d/19Imgj8Opi-o_bpVWZfk3s48gHE4GO2-I/view?usp=drivesdk",
+            "医薬品化学_第4回_文字起こし（タイムスタンプ付き）.txt": "https://drive.google.com/file/d/1WtRVci6TnNBa4aKs_aGQPQmQ-jX4wx3V/view?usp=drivesdk",
+            "医薬品化学_第4回_文字起こし（再生HTML）.html": "https://drive.google.com/file/d/12T24rhYRr5tzux_7ofMqhpP6MNdLOYD0/view?usp=drivesdk",
             "医薬品化学_第4回_録音.m4a": "https://drive.google.com/file/d/1iG2uYH9awGkDLFjC1pN6Ura7j0pK5qnv/view?usp=drivesdk"
           }
         },
         {
           "name": "第5回",
           "files": [
+            "医薬品化学_第5回_文字起こし.txt",
+            "医薬品化学_第5回_文字起こし（タイムスタンプ付き）.txt",
+            "医薬品化学_第5回_文字起こし（再生HTML）.html",
             "医薬品化学_第5回_録音.m4a"
           ],
           "file_links": {
+            "医薬品化学_第5回_文字起こし.txt": "https://drive.google.com/file/d/1KLrnH3kVcLAcr3uguKM1bfVwZ6xZ18Vx/view?usp=drivesdk",
+            "医薬品化学_第5回_文字起こし（タイムスタンプ付き）.txt": "https://drive.google.com/file/d/1d6_x6pdhLskzMAGxF21Da6lMg-kdtJ5l/view?usp=drivesdk",
+            "医薬品化学_第5回_文字起こし（再生HTML）.html": "https://drive.google.com/file/d/1JrulGfyKRUdytJMXSWmF76leHuxVPsm1/view?usp=drivesdk",
             "医薬品化学_第5回_録音.m4a": "https://drive.google.com/file/d/1cRc6GE1o43FQ-exQlbfvm72TBh--SZqW/view?usp=drivesdk"
           }
         }
@@ -117,9 +140,15 @@
         {
           "name": "第1回",
           "files": [
+            "衛生化学1_第1回_文字起こし.txt",
+            "衛生化学1_第1回_文字起こし（タイムスタンプ付き）.txt",
+            "衛生化学1_第1回_文字起こし（再生HTML）.html",
             "衛生化学1_第1回_録音.m4a"
           ],
           "file_links": {
+            "衛生化学1_第1回_文字起こし.txt": "https://drive.google.com/file/d/1y6MS_gsl-HXbcC91QKgzBIg10tl2s7go/view?usp=drivesdk",
+            "衛生化学1_第1回_文字起こし（タイムスタンプ付き）.txt": "https://drive.google.com/file/d/1bUBZGYxYGWe0XqhW6BLsO6FKoLSThQHt/view?usp=drivesdk",
+            "衛生化学1_第1回_文字起こし（再生HTML）.html": "https://drive.google.com/file/d/1k5NTGk4YSW710Ssh5Sl16Yb3hiExQlqI/view?usp=drivesdk",
             "衛生化学1_第1回_録音.m4a": "https://drive.google.com/file/d/1FIJcpScZRmtmL0f1kv8EWzWF_vbKGXMi/view?usp=drivesdk"
           }
         },
@@ -135,9 +164,15 @@
         {
           "name": "第3回",
           "files": [
+            "衛生化学1_第3回_文字起こし.txt",
+            "衛生化学1_第3回_文字起こし（タイムスタンプ付き）.txt",
+            "衛生化学1_第3回_文字起こし（再生HTML）.html",
             "衛生化学1_第3回_録音.m4a"
           ],
           "file_links": {
+            "衛生化学1_第3回_文字起こし.txt": "https://drive.google.com/file/d/1S1RgeJKdwLhV5mhuQoju2B_kgM29VJxn/view?usp=drivesdk",
+            "衛生化学1_第3回_文字起こし（タイムスタンプ付き）.txt": "https://drive.google.com/file/d/1gF4j2kldFsei-WnU95MEDCyHujl42EU0/view?usp=drivesdk",
+            "衛生化学1_第3回_文字起こし（再生HTML）.html": "https://drive.google.com/file/d/1OywJJ0hA8Mjlc40E4pFTPlhPpxtTJqCk/view?usp=drivesdk",
             "衛生化学1_第3回_録音.m4a": "https://drive.google.com/file/d/16b1oENfrgs3VGky5Do_uY9JKauJc-H0n/view?usp=drivesdk"
           }
         },
@@ -153,20 +188,44 @@
         {
           "name": "第5回",
           "files": [
+            "衛生化学1_第5回_文字起こし.txt",
+            "衛生化学1_第5回_文字起こし（タイムスタンプ付き）.txt",
+            "衛生化学1_第5回_文字起こし（再生HTML）.html",
             "衛生化学1_第5回_録音.m4a"
           ],
           "file_links": {
+            "衛生化学1_第5回_文字起こし.txt": "https://drive.google.com/file/d/1omo7gQUR_GzXD5VpsFYuuPmEoFecGq0v/view?usp=drivesdk",
+            "衛生化学1_第5回_文字起こし（タイムスタンプ付き）.txt": "https://drive.google.com/file/d/17AW97LnboiT5RKU919141fRjPK2c0AOV/view?usp=drivesdk",
+            "衛生化学1_第5回_文字起こし（再生HTML）.html": "https://drive.google.com/file/d/1z4F72ND7Vn9PlKmi3UCSXDScA94GGCOQ/view?usp=drivesdk",
             "衛生化学1_第5回_録音.m4a": "https://drive.google.com/file/d/1NtcdZWwluYoGtyaUrGzDRXt56Mtnu_Tz/view?usp=drivesdk"
           }
         },
         {
           "name": "第6回",
           "files": [
+            "衛生化学1_第6回_文字起こし（1）.txt",
+            "衛生化学1_第6回_文字起こし（1）（タイムスタンプ付き）.txt",
+            "衛生化学1_第6回_文字起こし（1）（再生HTML）.html",
+            "衛生化学1_第6回_文字起こし（2）.txt",
+            "衛生化学1_第6回_文字起こし（2）（タイムスタンプ付き）.txt",
+            "衛生化学1_第6回_文字起こし（2）（再生HTML）.html",
+            "衛生化学1_第6回_文字起こし（3）.txt",
+            "衛生化学1_第6回_文字起こし（3）（タイムスタンプ付き）.txt",
+            "衛生化学1_第6回_文字起こし（3）（再生HTML）.html",
             "衛生化学1_第6回_録音（1）.m4a",
             "衛生化学1_第6回_録音（2）.m4a",
             "衛生化学1_第6回_録音（3）.m4a"
           ],
           "file_links": {
+            "衛生化学1_第6回_文字起こし（1）.txt": "https://drive.google.com/file/d/1QiC__5Xb5qsp99QBbN0GOKuc_H4vsRKK/view?usp=drivesdk",
+            "衛生化学1_第6回_文字起こし（1）（タイムスタンプ付き）.txt": "https://drive.google.com/file/d/19yavtKM8TvUfRFDEj4wdVfmd7sJzlqpS/view?usp=drivesdk",
+            "衛生化学1_第6回_文字起こし（1）（再生HTML）.html": "https://drive.google.com/file/d/1xZSVQ7obet59_tIjwssW7ZvIKx_JKf-C/view?usp=drivesdk",
+            "衛生化学1_第6回_文字起こし（2）.txt": "https://drive.google.com/file/d/1AbvC8G575mp0yd1MhMe3ayriL4F1qcYM/view?usp=drivesdk",
+            "衛生化学1_第6回_文字起こし（2）（タイムスタンプ付き）.txt": "https://drive.google.com/file/d/1CHTnCgVUgOSOr1Lb3Lt4FjVoU3amMBbh/view?usp=drivesdk",
+            "衛生化学1_第6回_文字起こし（2）（再生HTML）.html": "https://drive.google.com/file/d/1cLpB3vIgjgQTiEwRSu1czhMEKeTlLdQC/view?usp=drivesdk",
+            "衛生化学1_第6回_文字起こし（3）.txt": "https://drive.google.com/file/d/1G4jE1JWoRjvk4lg-ClvlR7MOK5l9t0Go/view?usp=drivesdk",
+            "衛生化学1_第6回_文字起こし（3）（タイムスタンプ付き）.txt": "https://drive.google.com/file/d/1cTcLRE7JfsMI4Ysnty-TespZQ3AupJcp/view?usp=drivesdk",
+            "衛生化学1_第6回_文字起こし（3）（再生HTML）.html": "https://drive.google.com/file/d/1lfxIQhlaFA-eCsqu3FMFv6cNlJpz9FnK/view?usp=drivesdk",
             "衛生化学1_第6回_録音（1）.m4a": "https://drive.google.com/file/d/1oYdFMrnr76gUYECe_MiVBw30DEXWh4t1/view?usp=drivesdk",
             "衛生化学1_第6回_録音（2）.m4a": "https://drive.google.com/file/d/1YLzboe3L7ylGDa2L0nuCbUPsTFEhF0Vo/view?usp=drivesdk",
             "衛生化学1_第6回_録音（3）.m4a": "https://drive.google.com/file/d/1xMBMfmXopt9DIy_YtaqDH3W_bY5UdqH5/view?usp=drivesdk"
@@ -175,9 +234,15 @@
         {
           "name": "第7回",
           "files": [
+            "衛生化学1_第7回_文字起こし.txt",
+            "衛生化学1_第7回_文字起こし（タイムスタンプ付き）.txt",
+            "衛生化学1_第7回_文字起こし（再生HTML）.html",
             "衛生化学1_第7回_録音.m4a"
           ],
           "file_links": {
+            "衛生化学1_第7回_文字起こし.txt": "https://drive.google.com/file/d/1pSRAaCe_5rjz0Ntm3hH9P7BOqrcQS8hT/view?usp=drivesdk",
+            "衛生化学1_第7回_文字起こし（タイムスタンプ付き）.txt": "https://drive.google.com/file/d/17HnwxEzwo2VAsU39oSiNtAvZmN3TW2Wc/view?usp=drivesdk",
+            "衛生化学1_第7回_文字起こし（再生HTML）.html": "https://drive.google.com/file/d/1Po9V8PVQus-mMmtOvAdXUfeYRf0dagj9/view?usp=drivesdk",
             "衛生化学1_第7回_録音.m4a": "https://drive.google.com/file/d/1-Zmt77L6hzBA0lGuvsLVO2Dh_ueiPkjY/view?usp=drivesdk"
           }
         }
@@ -285,18 +350,30 @@
         {
           "name": "第5回",
           "files": [
+            "構造化学_第5回_文字起こし.txt",
+            "構造化学_第5回_文字起こし（タイムスタンプ付き）.txt",
+            "構造化学_第5回_文字起こし（再生HTML）.html",
             "構造化学_第5回_録音.m4a"
           ],
           "file_links": {
+            "構造化学_第5回_文字起こし.txt": "https://drive.google.com/file/d/1algwjMoOZduyGCOMV223LFsI7d6NaWMo/view?usp=drivesdk",
+            "構造化学_第5回_文字起こし（タイムスタンプ付き）.txt": "https://drive.google.com/file/d/1bpN6azkbpBaUDPXMxY1em6iCZYqkF45S/view?usp=drivesdk",
+            "構造化学_第5回_文字起こし（再生HTML）.html": "https://drive.google.com/file/d/1bXkgocl2t1Hgy_pkhcojm2TkuSIuvFsU/view?usp=drivesdk",
             "構造化学_第5回_録音.m4a": "https://drive.google.com/file/d/1SZPA5PZnh6r7yi_T-Ka-IBJq3bNHqVsG/view?usp=drivesdk"
           }
         },
         {
           "name": "第6回",
           "files": [
+            "構造化学_第6回_文字起こし.txt",
+            "構造化学_第6回_文字起こし（タイムスタンプ付き）.txt",
+            "構造化学_第6回_文字起こし（再生HTML）.html",
             "構造化学_第6回_録音.m4a"
           ],
           "file_links": {
+            "構造化学_第6回_文字起こし.txt": "https://drive.google.com/file/d/1vi7ieWjLDu7qGP6fRKqkRJGf1A3t9mQz/view?usp=drivesdk",
+            "構造化学_第6回_文字起こし（タイムスタンプ付き）.txt": "https://drive.google.com/file/d/1rw6msuvU8EMShfZ2kjU5y9vFfbzS9vrd/view?usp=drivesdk",
+            "構造化学_第6回_文字起こし（再生HTML）.html": "https://drive.google.com/file/d/14FdwEHsfuqykYQ2tPhfeP6zO2OCUx2VB/view?usp=drivesdk",
             "構造化学_第6回_録音.m4a": "https://drive.google.com/file/d/1g8rscZudT4VIduOjEPgkiD3tLYrTQ5ch/view?usp=drivesdk"
           }
         }
@@ -547,9 +624,15 @@
         {
           "name": "共通",
           "files": [
+            "創薬化学実習1_共通_文字起こし.txt",
+            "創薬化学実習1_共通_文字起こし（タイムスタンプ付き）.txt",
+            "創薬化学実習1_共通_文字起こし（再生HTML）.html",
             "創薬化学実習1_共通_録音.m4a"
           ],
           "file_links": {
+            "創薬化学実習1_共通_文字起こし.txt": "https://drive.google.com/file/d/1rkko9_cR0RJeKW_pBVo0iRkmrv5omXS5/view?usp=drivesdk",
+            "創薬化学実習1_共通_文字起こし（タイムスタンプ付き）.txt": "https://drive.google.com/file/d/1Nrl3EhPJtKXAayMBt12Y-cMbmxDM5zH6/view?usp=drivesdk",
+            "創薬化学実習1_共通_文字起こし（再生HTML）.html": "https://drive.google.com/file/d/1HlhbqlFmCDpZglLeuVmmq0xCIcm0N_65/view?usp=drivesdk",
             "創薬化学実習1_共通_録音.m4a": "https://drive.google.com/file/d/1thCcAHFPNshXMQ0k_U-tekLFQw8LK_8j/view?usp=drivesdk"
           }
         },
@@ -631,10 +714,16 @@
         {
           "name": "第4回",
           "files": [
+            "物理化学2_第4回_文字起こし.txt",
+            "物理化学2_第4回_文字起こし（タイムスタンプ付き）.txt",
+            "物理化学2_第4回_文字起こし（再生HTML）.html",
             "物理化学2_第4回_界面活性剤の構造・性質・分子集合体形成.pdf",
             "物理化学2_第4回_録音.m4a"
           ],
           "file_links": {
+            "物理化学2_第4回_文字起こし.txt": "https://drive.google.com/file/d/1fiZlu3MUQT_peeIUY7cIt3fv9cWKE2cm/view?usp=drivesdk",
+            "物理化学2_第4回_文字起こし（タイムスタンプ付き）.txt": "https://drive.google.com/file/d/1iksuW6WhEi9IYkvZP47Tx-K5-q7dXPTR/view?usp=drivesdk",
+            "物理化学2_第4回_文字起こし（再生HTML）.html": "https://drive.google.com/file/d/1vhoYNggNgXJRimp9vBAEotqllSVHYnSG/view?usp=drivesdk",
             "物理化学2_第4回_界面活性剤の構造・性質・分子集合体形成.pdf": "https://drive.google.com/file/d/1i4GAk7WFGGndxsSU6jZ6dmFDiFFmfWEB/view?usp=drivesdk",
             "物理化学2_第4回_録音.m4a": "https://drive.google.com/file/d/1s0HNAWxRHLhdBYcmvNpxnhN9-60uLr3X/view?usp=drivesdk"
           }
@@ -642,9 +731,15 @@
         {
           "name": "第6回",
           "files": [
+            "物理化学2_第6回_文字起こし.txt",
+            "物理化学2_第6回_文字起こし（タイムスタンプ付き）.txt",
+            "物理化学2_第6回_文字起こし（再生HTML）.html",
             "物理化学2_第6回_録音.m4a"
           ],
           "file_links": {
+            "物理化学2_第6回_文字起こし.txt": "https://drive.google.com/file/d/10vMhwLIUtkSVC_OrbEKippzsyHkxJRIp/view?usp=drivesdk",
+            "物理化学2_第6回_文字起こし（タイムスタンプ付き）.txt": "https://drive.google.com/file/d/1cN8XQoihtpkFlPwnyZuVCQgA7gmrs3MT/view?usp=drivesdk",
+            "物理化学2_第6回_文字起こし（再生HTML）.html": "https://drive.google.com/file/d/1O0_IdwVJCJOI7q-IKFF-Kfc0QoTY-Utz/view?usp=drivesdk",
             "物理化学2_第6回_録音.m4a": "https://drive.google.com/file/d/1FGaNZPvfZvIT25KTmjXDoAOgSH0YgX5k/view?usp=drivesdk"
           }
         }
@@ -699,28 +794,46 @@
           "name": "第4回",
           "files": [
             "分析化学2_第4回_クロマトグラフィーの基礎I.pdf",
+            "分析化学2_第4回_文字起こし.txt",
+            "分析化学2_第4回_文字起こし（タイムスタンプ付き）.txt",
+            "分析化学2_第4回_文字起こし（再生HTML）.html",
             "分析化学2_第4回_録音.m4a"
           ],
           "file_links": {
             "分析化学2_第4回_クロマトグラフィーの基礎I.pdf": "https://drive.google.com/file/d/1mPsuy4E1tpZZtxfixQlgKX4AftRg6tp4/view?usp=drivesdk",
+            "分析化学2_第4回_文字起こし.txt": "https://drive.google.com/file/d/1wdx76CS_T0fX4Zk7_6pYd7hy5E4SCLvB/view?usp=drivesdk",
+            "分析化学2_第4回_文字起こし（タイムスタンプ付き）.txt": "https://drive.google.com/file/d/1Qk58fKk_hs6_C4w4qeAdFwH1Ls3nMcNR/view?usp=drivesdk",
+            "分析化学2_第4回_文字起こし（再生HTML）.html": "https://drive.google.com/file/d/1qixVhBW1DEB6k5b1D4fmD4M57sfU6qOC/view?usp=drivesdk",
             "分析化学2_第4回_録音.m4a": "https://drive.google.com/file/d/1ekwhqkMNKBipt532TsWfiLWCpUy7B-sl/view?usp=drivesdk"
           }
         },
         {
           "name": "第5回",
           "files": [
+            "分析化学2_第5回_文字起こし.txt",
+            "分析化学2_第5回_文字起こし（タイムスタンプ付き）.txt",
+            "分析化学2_第5回_文字起こし（再生HTML）.html",
             "分析化学_第5回_録音.m4a"
           ],
           "file_links": {
+            "分析化学2_第5回_文字起こし.txt": "https://drive.google.com/file/d/1hO253dyFi9PZBoElmet5T21wcpSmZpox/view?usp=drivesdk",
+            "分析化学2_第5回_文字起こし（タイムスタンプ付き）.txt": "https://drive.google.com/file/d/1fNL7OJX4Ik9XarMUa--LmYxVWB6e-TWv/view?usp=drivesdk",
+            "分析化学2_第5回_文字起こし（再生HTML）.html": "https://drive.google.com/file/d/1SIA6PFaRH08-A_EqU2e1zEzNc6S9YecQ/view?usp=drivesdk",
             "分析化学_第5回_録音.m4a": "https://drive.google.com/file/d/1wM6fHYHrM-kFe7RYyDNoHw0DaaTTcec8/view?usp=drivesdk"
           }
         },
         {
           "name": "第6回",
           "files": [
+            "分析化学2_第6回_文字起こし.txt",
+            "分析化学2_第6回_文字起こし（タイムスタンプ付き）.txt",
+            "分析化学2_第6回_文字起こし（再生HTML）.html",
             "分析化学2_第6回_録音.m4a"
           ],
           "file_links": {
+            "分析化学2_第6回_文字起こし.txt": "https://drive.google.com/file/d/1WCmxTPNmqKqcTH3SEt131ALhfCxyY6aT/view?usp=drivesdk",
+            "分析化学2_第6回_文字起こし（タイムスタンプ付き）.txt": "https://drive.google.com/file/d/1UQ8GArsvp1GmJtFRqgvjZDh52YbamZbG/view?usp=drivesdk",
+            "分析化学2_第6回_文字起こし（再生HTML）.html": "https://drive.google.com/file/d/1VZsnLBVjdsBqcrNXk3FoZFyGzi0_A9g9/view?usp=drivesdk",
             "分析化学2_第6回_録音.m4a": "https://drive.google.com/file/d/1YjEnAxpTaYQhAk6qvGF_7X9RDYlG3YGb/view?usp=drivesdk"
           }
         }
@@ -806,18 +919,30 @@
         {
           "name": "第6回",
           "files": [
+            "放射化学_第6回_文字起こし.txt",
+            "放射化学_第6回_文字起こし（タイムスタンプ付き）.txt",
+            "放射化学_第6回_文字起こし（再生HTML）.html",
             "放射化学_第6回_録音.m4a"
           ],
           "file_links": {
+            "放射化学_第6回_文字起こし.txt": "https://drive.google.com/file/d/16jYGxVGRZrP9qrmmIeOzWHRdK-2UN-fW/view?usp=drivesdk",
+            "放射化学_第6回_文字起こし（タイムスタンプ付き）.txt": "https://drive.google.com/file/d/1ac9nb60dWNL_3wvwSha-ypaXhPx3nYOe/view?usp=drivesdk",
+            "放射化学_第6回_文字起こし（再生HTML）.html": "https://drive.google.com/file/d/1hrABw-lBkJTpQ-FAX_oAIG2kSFuamB_p/view?usp=drivesdk",
             "放射化学_第6回_録音.m4a": "https://drive.google.com/file/d/1aiDNUsrRAYLouQkrpOxFi134YWRPHMrH/view?usp=drivesdk"
           }
         },
         {
           "name": "第7回",
           "files": [
+            "放射化学_第7回_文字起こし.txt",
+            "放射化学_第7回_文字起こし（タイムスタンプ付き）.txt",
+            "放射化学_第7回_文字起こし（再生HTML）.html",
             "放射化学_第7回_録音.m4a"
           ],
           "file_links": {
+            "放射化学_第7回_文字起こし.txt": "https://drive.google.com/file/d/1uxL6A8KDrPZMD2W2tFuLWIm2pYqb_abs/view?usp=drivesdk",
+            "放射化学_第7回_文字起こし（タイムスタンプ付き）.txt": "https://drive.google.com/file/d/1j5qQjtfW1SUqETCpuK-lsKof65JlIred/view?usp=drivesdk",
+            "放射化学_第7回_文字起こし（再生HTML）.html": "https://drive.google.com/file/d/11QkNNOWkEtgf1-f4_m9wSYoZ2bRgmUwj/view?usp=drivesdk",
             "放射化学_第7回_録音.m4a": "https://drive.google.com/file/d/1v8z5aVs6c5m0ssyXLxLc_fW8ufKoXMfw/view?usp=drivesdk"
           }
         }
@@ -906,11 +1031,21 @@
         {
           "name": "第4回",
           "files": [
+            "薬剤学2_第4回_文字起こし.txt",
+            "薬剤学2_第4回_文字起こし（タイムスタンプ付き）.txt",
+            "薬剤学2_第4回_文字起こし（一次校訂・タイムスタンプ付き）.txt",
+            "薬剤学2_第4回_文字起こし（再生HTML）.html",
+            "薬剤学2_第4回_文字起こし（講義資料照合・校訂版）.txt",
             "薬剤学2_第4回_演習4-1〜4-4解答・解説（反復投与）.pdf",
             "薬剤学2_第4回_薬物投与設計理論2（反復投与）.pdf",
             "薬剤学2_第4回_録音.m4a"
           ],
           "file_links": {
+            "薬剤学2_第4回_文字起こし.txt": "https://drive.google.com/file/d/1XNXwLGHN6r1qVoki4-ZFAd59zOYJ92ZX/view?usp=drivesdk",
+            "薬剤学2_第4回_文字起こし（タイムスタンプ付き）.txt": "https://drive.google.com/file/d/1FGMmDAkhRtxXbk-5Og4QExlKcBXqDX9G/view?usp=drivesdk",
+            "薬剤学2_第4回_文字起こし（一次校訂・タイムスタンプ付き）.txt": "https://drive.google.com/file/d/1yrXwlrWl1L8QkSOA6b0XyTmb9cjPFoq7/view?usp=drivesdk",
+            "薬剤学2_第4回_文字起こし（再生HTML）.html": "https://drive.google.com/file/d/1soJvjWHU-T1_UBqzBjv9J2tjUwm0Nbjo/view?usp=drivesdk",
+            "薬剤学2_第4回_文字起こし（講義資料照合・校訂版）.txt": "https://drive.google.com/file/d/16VccGLJSwh_XnFdh42VpJVWisQRwUDhg/view?usp=drivesdk",
             "薬剤学2_第4回_演習4-1〜4-4解答・解説（反復投与）.pdf": "https://drive.google.com/file/d/1aNzM5BzGpRjWvQI5O4kJlamduQUZayCm/view?usp=drivesdk",
             "薬剤学2_第4回_薬物投与設計理論2（反復投与）.pdf": "https://drive.google.com/file/d/17eizIHwbnK3pU3v-K3jTbIpIevkovMc-/view?usp=drivesdk",
             "薬剤学2_第4回_録音.m4a": "https://drive.google.com/file/d/16lmwu_Of5hJ08wkCDehZxElSpmO_deQQ/view?usp=drivesdk"
@@ -922,8 +1057,10 @@
             "薬剤学2_第5回_小テスト解答・計算例（点滴・反復投与）.pdf",
             "薬剤学2_第5回_小テスト資料（添付文書・薬物動態パラメータ）.pdf",
             "薬剤学2_第5回_文字起こし（タイムスタンプ付き）.txt",
+            "薬剤学2_第5回_文字起こし（一次校訂・タイムスタンプ付き）.txt",
             "薬剤学2_第5回_文字起こし（再生HTML）.html",
             "薬剤学2_第5回_文字起こし.txt",
+            "薬剤学2_第5回_文字起こし（講義資料照合・校訂版）.txt",
             "薬剤学2_第5回_講義資料（3）.pdf",
             "薬剤学2_第5回_講義資料.pdf",
             "薬剤学2_第5回_録音.m4a"
@@ -932,8 +1069,10 @@
             "薬剤学2_第5回_小テスト解答・計算例（点滴・反復投与）.pdf": "https://drive.google.com/file/d/1SYJ7HZNcsvx4ATNTlVV703Ma0EIxhZ8L/view?usp=drivesdk",
             "薬剤学2_第5回_小テスト資料（添付文書・薬物動態パラメータ）.pdf": "https://drive.google.com/file/d/16kslJWfn-kCBtTEnsstZ0drsBR6EHP2Y/view?usp=drivesdk",
             "薬剤学2_第5回_文字起こし（タイムスタンプ付き）.txt": "https://drive.google.com/file/d/1QG0qVRu7pVttpn0Ecj_38tPrOhyD3TjJ/view?usp=drivesdk",
+            "薬剤学2_第5回_文字起こし（一次校訂・タイムスタンプ付き）.txt": "https://drive.google.com/file/d/1fid-W04VsOZcFwzmXAMnEH6aQNY4pF9X/view?usp=drivesdk",
             "薬剤学2_第5回_文字起こし（再生HTML）.html": "https://drive.google.com/file/d/17pbvB5W6T_YO4UcRQ3wETZnSMI9s1S2N/view?usp=drivesdk",
             "薬剤学2_第5回_文字起こし.txt": "https://drive.google.com/file/d/1V7afnwgG9j6KZHdABXDAG-BQ7mql860a/view?usp=drivesdk",
+            "薬剤学2_第5回_文字起こし（講義資料照合・校訂版）.txt": "https://drive.google.com/file/d/1ObsUT374FZhxor0-PHGUHgHb-D6FKAZt/view?usp=drivesdk",
             "薬剤学2_第5回_講義資料（3）.pdf": "https://drive.google.com/file/d/1MD3g8sqcpOerYpYKdkYJOhzZKohHiTHn/view?usp=drivesdk",
             "薬剤学2_第5回_講義資料.pdf": "https://drive.google.com/file/d/1jE-kYCz9awptrigvFOcGgi0W1B-Rlh9k/view?usp=drivesdk",
             "薬剤学2_第5回_録音.m4a": "https://drive.google.com/file/d/1qNvePcvPX3sflq7_JLMgirCcvZLcOSVd/view?usp=drivesdk"
@@ -943,22 +1082,32 @@
           "name": "第6回",
           "files": [
             "薬剤学2_第6回_モーメント解析・コンボリューション解析.pdf",
-            "薬剤学2_第6回_録音.m4a",
             "薬剤学2_第6回_録音.mp4"
           ],
           "file_links": {
             "薬剤学2_第6回_モーメント解析・コンボリューション解析.pdf": "https://drive.google.com/file/d/1BWwohPPd_PXoTlq0b0djMXvo0glzB7Qc/view?usp=drivesdk",
-            "薬剤学2_第6回_録音.m4a": "https://drive.google.com/file/d/1F5POjB_3NtDBM_mPvJ9Dbwoz_DisSHSZ/view?usp=drivesdk",
             "薬剤学2_第6回_録音.mp4": "https://drive.google.com/file/d/1F82wvyT7MqObmY9NjZohOjyZAfEFhV_9/view?usp=drivesdk"
           }
         },
         {
           "name": "第7回",
           "files": [
-            "薬剤学2_第7回_母集団薬物速度論（PPK）.pdf"
+            "薬剤学2_第7回_文字起こし.txt",
+            "薬剤学2_第7回_文字起こし（タイムスタンプ付き）.txt",
+            "薬剤学2_第7回_文字起こし（一次校訂・タイムスタンプ付き）.txt",
+            "薬剤学2_第7回_文字起こし（再生HTML）.html",
+            "薬剤学2_第7回_文字起こし（講義資料照合・校訂版）.txt",
+            "薬剤学2_第7回_母集団薬物速度論（PPK）.pdf",
+            "薬剤学2_第7回_録音.m4a"
           ],
           "file_links": {
-            "薬剤学2_第7回_母集団薬物速度論（PPK）.pdf": "https://drive.google.com/file/d/1zN5HPwqbKFAO1DOTHMmWYt0HnUNPyMpJ/view?usp=drivesdk"
+            "薬剤学2_第7回_文字起こし.txt": "https://drive.google.com/file/d/13NBYEACJs9OqTTlAGZZxVmas-KYyRwYh/view?usp=drivesdk",
+            "薬剤学2_第7回_文字起こし（タイムスタンプ付き）.txt": "https://drive.google.com/file/d/1Bm8VgzppWhNQp87-GRWCS9zTdauLRYyE/view?usp=drivesdk",
+            "薬剤学2_第7回_文字起こし（一次校訂・タイムスタンプ付き）.txt": "https://drive.google.com/file/d/1WTQ6jHosHYNFArymMERQPo0ODhDK6uOp/view?usp=drivesdk",
+            "薬剤学2_第7回_文字起こし（再生HTML）.html": "https://drive.google.com/file/d/1H-j5Hzpczsm3XS_WfKBlF0s4uzg65s6H/view?usp=drivesdk",
+            "薬剤学2_第7回_文字起こし（講義資料照合・校訂版）.txt": "https://drive.google.com/file/d/1gTLh3bEYlGzqSWItgXXCdxAPJ7-p4jUU/view?usp=drivesdk",
+            "薬剤学2_第7回_母集団薬物速度論（PPK）.pdf": "https://drive.google.com/file/d/1zN5HPwqbKFAO1DOTHMmWYt0HnUNPyMpJ/view?usp=drivesdk",
+            "薬剤学2_第7回_録音.m4a": "https://drive.google.com/file/d/1F5POjB_3NtDBM_mPvJ9Dbwoz_DisSHSZ/view?usp=drivesdk"
           }
         },
         {
@@ -1089,27 +1238,45 @@
         {
           "name": "第4回",
           "files": [
+            "薬品構造解析学_第4回_文字起こし.txt",
+            "薬品構造解析学_第4回_文字起こし（タイムスタンプ付き）.txt",
+            "薬品構造解析学_第4回_文字起こし（再生HTML）.html",
             "薬品構造解析学_第4回_録音.m4a"
           ],
           "file_links": {
+            "薬品構造解析学_第4回_文字起こし.txt": "https://drive.google.com/file/d/1qotZm52y-K5PwjIKEueShDYLUsxUf3jC/view?usp=drivesdk",
+            "薬品構造解析学_第4回_文字起こし（タイムスタンプ付き）.txt": "https://drive.google.com/file/d/1l9ul41UKMvdquKHrO17T2wfDkRFW3EkK/view?usp=drivesdk",
+            "薬品構造解析学_第4回_文字起こし（再生HTML）.html": "https://drive.google.com/file/d/18ysZDeG1mvCPiOTdQ4NjdtwvhKk-e2CQ/view?usp=drivesdk",
             "薬品構造解析学_第4回_録音.m4a": "https://drive.google.com/file/d/1Bdbd6ZcYm6bX-xrB1IJjWi_R35kXism7/view?usp=drivesdk"
           }
         },
         {
           "name": "第5回",
           "files": [
+            "薬品構造解析学_第5回_文字起こし.txt",
+            "薬品構造解析学_第5回_文字起こし（タイムスタンプ付き）.txt",
+            "薬品構造解析学_第5回_文字起こし（再生HTML）.html",
             "薬品構造解析学_第5回_録音.m4a"
           ],
           "file_links": {
+            "薬品構造解析学_第5回_文字起こし.txt": "https://drive.google.com/file/d/1WuaaH2LE-n1jDRPIDSp2dv8Z7jYJ8DSu/view?usp=drivesdk",
+            "薬品構造解析学_第5回_文字起こし（タイムスタンプ付き）.txt": "https://drive.google.com/file/d/1X1486J7q1jl2AUZPLNxKCCATmZG6d9xB/view?usp=drivesdk",
+            "薬品構造解析学_第5回_文字起こし（再生HTML）.html": "https://drive.google.com/file/d/1haMSJUf7ehMrQ7m8sWtp4OI5OtdcKFkR/view?usp=drivesdk",
             "薬品構造解析学_第5回_録音.m4a": "https://drive.google.com/file/d/1kNcYCFo9U1huSgv_XaDFTR9N7YF-lfRs/view?usp=drivesdk"
           }
         },
         {
           "name": "第6回",
           "files": [
+            "薬品構造解析学_第6回_文字起こし.txt",
+            "薬品構造解析学_第6回_文字起こし（タイムスタンプ付き）.txt",
+            "薬品構造解析学_第6回_文字起こし（再生HTML）.html",
             "薬品構造解析学_第6回_録音.m4a"
           ],
           "file_links": {
+            "薬品構造解析学_第6回_文字起こし.txt": "https://drive.google.com/file/d/12ams1PS1_3WYcVFNymIrzZaPlQYsylky/view?usp=drivesdk",
+            "薬品構造解析学_第6回_文字起こし（タイムスタンプ付き）.txt": "https://drive.google.com/file/d/1bC80-aS3pkSK_c62dsimErisn8ccVece/view?usp=drivesdk",
+            "薬品構造解析学_第6回_文字起こし（再生HTML）.html": "https://drive.google.com/file/d/1R018rm_QOeAlUpXGI31ccrSqXZ_5NDgc/view?usp=drivesdk",
             "薬品構造解析学_第6回_録音.m4a": "https://drive.google.com/file/d/1KdcFDMkQQrXgJGF39NcJmsAqYvI06d7R/view?usp=drivesdk"
           }
         }
@@ -1152,11 +1319,15 @@
           "files": [
             "薬理学3_第2回_循環器作用薬概論.pdf",
             "薬理学3_第2回_文字起こし（タイムスタンプ付き）.txt",
+            "薬理学3_第2回_文字起こし（一次校訂・タイムスタンプ付き）.txt",
+            "薬理学3_第2回_文字起こし（講義資料照合・校訂版）.txt",
             "薬理学3_第2回_録音.m4a"
           ],
           "file_links": {
             "薬理学3_第2回_循環器作用薬概論.pdf": "https://drive.google.com/file/d/1Fiou2kW4r_JTe9t-fWT5ZZ1kl9QF3L8u/view?usp=drivesdk",
             "薬理学3_第2回_文字起こし（タイムスタンプ付き）.txt": "https://drive.google.com/file/d/1JcOZVa4g2ibgteQZI97ph8VOHpVolH_V/view?usp=drivesdk",
+            "薬理学3_第2回_文字起こし（一次校訂・タイムスタンプ付き）.txt": "https://drive.google.com/file/d/1t3ib3aV7U-8pBVU7HOLOiYTfJnsT4lA6/view?usp=drivesdk",
+            "薬理学3_第2回_文字起こし（講義資料照合・校訂版）.txt": "https://drive.google.com/file/d/1lS18wSPeq2coe_S6_jJKa8lfdxuQFo2i/view?usp=drivesdk",
             "薬理学3_第2回_録音.m4a": "https://drive.google.com/file/d/1uEDNbCHqMlKyHUoP3r6VcPtwoxuCckJp/view?usp=drivesdk"
           }
         },
@@ -1165,15 +1336,19 @@
           "files": [
             "薬理学3_第3回_心不全治療薬.pdf",
             "薬理学3_第3回_文字起こし（タイムスタンプ付き）.txt",
+            "薬理学3_第3回_文字起こし（一次校訂・タイムスタンプ付き）.txt",
             "薬理学3_第3回_文字起こし（再生HTML）.html",
             "薬理学3_第3回_文字起こし.txt",
+            "薬理学3_第3回_文字起こし（講義資料照合・校訂版）.txt",
             "薬理学3_第3回_録音.m4a"
           ],
           "file_links": {
             "薬理学3_第3回_心不全治療薬.pdf": "https://drive.google.com/file/d/1plP2lDBzv90q1ChdKgotFIVCEkCeykk0/view?usp=drivesdk",
             "薬理学3_第3回_文字起こし（タイムスタンプ付き）.txt": "https://drive.google.com/file/d/1QdWmezjRXaPjnpZj_NpL92r0-7mYfW-u/view?usp=drivesdk",
+            "薬理学3_第3回_文字起こし（一次校訂・タイムスタンプ付き）.txt": "https://drive.google.com/file/d/1jiM9A8W5iLV5YF5ItCEx8ZfQX-uxf8qn/view?usp=drivesdk",
             "薬理学3_第3回_文字起こし（再生HTML）.html": "https://drive.google.com/file/d/12S3OuESzH52nz6ODE1ihkPv6EwBa028-/view?usp=drivesdk",
             "薬理学3_第3回_文字起こし.txt": "https://drive.google.com/file/d/1hgCyrKpy0xLjVlDRRyMEToePKt0PGUM2/view?usp=drivesdk",
+            "薬理学3_第3回_文字起こし（講義資料照合・校訂版）.txt": "https://drive.google.com/file/d/1CZHGKhHnJG_Q-OJbn4omwilWWr3IEXso/view?usp=drivesdk",
             "薬理学3_第3回_録音.m4a": "https://drive.google.com/file/d/1BpJXXa7PUW-g4wdzZnjmyya9cJDJtiwa/view?usp=drivesdk"
           }
         },
@@ -1181,15 +1356,19 @@
           "name": "第4回",
           "files": [
             "薬理学3_第4回_文字起こし（タイムスタンプ付き）.txt",
+            "薬理学3_第4回_文字起こし（一次校訂・タイムスタンプ付き）.txt",
             "薬理学3_第4回_文字起こし（再生HTML）.html",
             "薬理学3_第4回_文字起こし.txt",
+            "薬理学3_第4回_文字起こし（講義資料照合・校訂版）.txt",
             "薬理学3_第4回_狭心症・心筋梗塞・脳梗塞治療薬.pdf",
             "薬理学3_第4回_録音.m4a"
           ],
           "file_links": {
             "薬理学3_第4回_文字起こし（タイムスタンプ付き）.txt": "https://drive.google.com/file/d/1l-wwae9BvvR0eUqvvJtpo3o46Rzi5Qjp/view?usp=drivesdk",
+            "薬理学3_第4回_文字起こし（一次校訂・タイムスタンプ付き）.txt": "https://drive.google.com/file/d/1pjSg1zoAkz5DuxeoKyadg8ny0i1nUHzb/view?usp=drivesdk",
             "薬理学3_第4回_文字起こし（再生HTML）.html": "https://drive.google.com/file/d/1gdo3OpNpSjOwnARmmKyV_cL1re-aoPmB/view?usp=drivesdk",
             "薬理学3_第4回_文字起こし.txt": "https://drive.google.com/file/d/1L8uksdI-3gj4ygj_gM32wSd4gaCHYufQ/view?usp=drivesdk",
+            "薬理学3_第4回_文字起こし（講義資料照合・校訂版）.txt": "https://drive.google.com/file/d/17swKy1o8stEpBiEjTDrt1OU7IN40_U1K/view?usp=drivesdk",
             "薬理学3_第4回_狭心症・心筋梗塞・脳梗塞治療薬.pdf": "https://drive.google.com/file/d/18JA4OjDMuI-a4aSqoEwwbIb44vJYXa6F/view?usp=drivesdk",
             "薬理学3_第4回_録音.m4a": "https://drive.google.com/file/d/1mYWVb2xJabXBo44-FhloUofb_l7Ylorv/view?usp=drivesdk"
           }
@@ -1197,10 +1376,27 @@
         {
           "name": "第5回",
           "files": [
+            "薬理学3_第5回_文字起こし.txt",
+            "薬理学3_第5回_文字起こし（タイムスタンプ付き）.txt",
+            "薬理学3_第5回_文字起こし（一次校訂・タイムスタンプ付き）.txt",
+            "薬理学3_第5回_文字起こし（再生HTML）.html",
             "薬理学3_第5回_録音.m4a"
           ],
           "file_links": {
+            "薬理学3_第5回_文字起こし.txt": "https://drive.google.com/file/d/1x_lAA0Sp8OCqQxlIilciYzB6U9zuurlg/view?usp=drivesdk",
+            "薬理学3_第5回_文字起こし（タイムスタンプ付き）.txt": "https://drive.google.com/file/d/1Cm9j6jk5agk3AqYd_ljizP5bxiJwjR5Q/view?usp=drivesdk",
+            "薬理学3_第5回_文字起こし（一次校訂・タイムスタンプ付き）.txt": "https://drive.google.com/file/d/1PK6gI9TwpoP-y7VoO1e7mZB5C_4FoVmB/view?usp=drivesdk",
+            "薬理学3_第5回_文字起こし（再生HTML）.html": "https://drive.google.com/file/d/1t3tIWrSnVYNvEKGVIsvfRqGNWZb6bEwT/view?usp=drivesdk",
             "薬理学3_第5回_録音.m4a": "https://drive.google.com/file/d/1VspaR9xxCvdvYLoLCHACgLnytxet4OIa/view?usp=drivesdk"
+          }
+        },
+        {
+          "name": "第6回",
+          "files": [
+            "薬理学3_第6回_録音.m4a"
+          ],
+          "file_links": {
+            "薬理学3_第6回_録音.m4a": "https://drive.google.com/file/d/1r6Vl2J0mHZQ397TxIVEDf0DjMYcL01sF/view?usp=drivesdk"
           }
         }
       ]
@@ -1281,10 +1477,16 @@
           "name": "第4回",
           "files": [
             "有機化学4_第4回_エノール・エノラートの化学1.pdf",
+            "有機化学4_第4回_文字起こし.txt",
+            "有機化学4_第4回_文字起こし（タイムスタンプ付き）.txt",
+            "有機化学4_第4回_文字起こし（再生HTML）.html",
             "有機化学4_第4回_録音.m4a"
           ],
           "file_links": {
             "有機化学4_第4回_エノール・エノラートの化学1.pdf": "https://drive.google.com/file/d/1eWh2aPxf8GZZ0KjOCZfOAhaq2XG65PjL/view?usp=drivesdk",
+            "有機化学4_第4回_文字起こし.txt": "https://drive.google.com/file/d/1xm0XTFZUroDN1JeiqkyJHuJ0wh7709BM/view?usp=drivesdk",
+            "有機化学4_第4回_文字起こし（タイムスタンプ付き）.txt": "https://drive.google.com/file/d/1tq0ZJR2DVAYMaJgi0DSyksHODaMb8mwV/view?usp=drivesdk",
+            "有機化学4_第4回_文字起こし（再生HTML）.html": "https://drive.google.com/file/d/1k5lZ1Od7v0VbqcduG3Wu1ZU_BJ5cYkgr/view?usp=drivesdk",
             "有機化学4_第4回_録音.m4a": "https://drive.google.com/file/d/1Xiudm36Ne2wcW8RJP54ST-R_NIKoC29z/view?usp=drivesdk"
           }
         },
@@ -1292,19 +1494,31 @@
           "name": "第5回",
           "files": [
             "有機化学4_第5回_エノール・エノラートの化学2.pdf",
+            "有機化学4_第5回_文字起こし.txt",
+            "有機化学4_第5回_文字起こし（タイムスタンプ付き）.txt",
+            "有機化学4_第5回_文字起こし（再生HTML）.html",
             "有機化学4_第5回_録音.m4a"
           ],
           "file_links": {
             "有機化学4_第5回_エノール・エノラートの化学2.pdf": "https://drive.google.com/file/d/1e_xoMzGrt0J8ssjaXegwebN56HzltzmI/view?usp=drivesdk",
+            "有機化学4_第5回_文字起こし.txt": "https://drive.google.com/file/d/1Mg9SkpUMgk6vYN58MPmGmKUE8SXileYa/view?usp=drivesdk",
+            "有機化学4_第5回_文字起こし（タイムスタンプ付き）.txt": "https://drive.google.com/file/d/1CUJeglkxxKtmVzed5drBZOLudz-Zi2yV/view?usp=drivesdk",
+            "有機化学4_第5回_文字起こし（再生HTML）.html": "https://drive.google.com/file/d/17M17cO2Z_T0-HPAMSYyrxn9TMvUqOBr4/view?usp=drivesdk",
             "有機化学4_第5回_録音.m4a": "https://drive.google.com/file/d/1E9WW0ykx7lunHyG0WmQyPdeIv5XrD3MJ/view?usp=drivesdk"
           }
         },
         {
           "name": "第6回",
           "files": [
+            "有機化学4_第6回_文字起こし.txt",
+            "有機化学4_第6回_文字起こし（タイムスタンプ付き）.txt",
+            "有機化学4_第6回_文字起こし（再生HTML）.html",
             "有機化学4_第6回_録音.m4a"
           ],
           "file_links": {
+            "有機化学4_第6回_文字起こし.txt": "https://drive.google.com/file/d/1vYpH8RoRpmDCp67p_WYm4h9ePkCVrxQ_/view?usp=drivesdk",
+            "有機化学4_第6回_文字起こし（タイムスタンプ付き）.txt": "https://drive.google.com/file/d/1b5rpF_gIyGGRuCr7k94_zIZu1C8Js65y/view?usp=drivesdk",
+            "有機化学4_第6回_文字起こし（再生HTML）.html": "https://drive.google.com/file/d/1GSlfk03rSfaIxpA0mnpYKd30EMByQD4S/view?usp=drivesdk",
             "有機化学4_第6回_録音.m4a": "https://drive.google.com/file/d/1--PcNnASLDiSVB-5Q6hDQKsqYn0-CQK0/view?usp=drivesdk"
           }
         }
