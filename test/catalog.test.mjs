@@ -59,7 +59,7 @@ test('every listed file has a unique Google Drive link', () => {
     ),
   );
 
-  assert.equal(files.length, 388);
+  assert.equal(files.length, 420);
   assert(files.every((file) => typeof file.url === 'string'));
   assert.equal(new Set(files.map((file) => file.url)).size, files.length);
 
