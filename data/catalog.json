@@ -3,6 +3,11 @@
   "whats_new": [
     {
       "date": "2026-11-18",
+      "title": "授業の要点・復習ノートを追加しました",
+      "description": "校訂済みの文字起こしをもとに、43回分の日本語の復習ノートを追加しました。授業の要点と該当する録音の時刻を確認できます。15科目・463件を掲載しています。"
+    },
+    {
+      "date": "2026-11-18",
       "title": "講義資料と照合した校訂版を追加しました",
       "description": "文字起こしの校訂版32件（部分校訂4件を含む）を追加しました。15科目・420件を掲載しています。"
     },
@@ -46,6 +51,7 @@
           "name": "第1回",
           "files": [
             "医薬品化学_第1回_復習資料（分子認識・酵素反応・核酸入門）.pdf",
+            "医薬品化学_第1回_授業の要点・復習ノート.txt",
             "医薬品化学_第1回_文字起こし（タイムスタンプ付き）.txt",
             "医薬品化学_第1回_文字起こし（校訂済）.txt",
             "医薬品化学_第1回_講義概要・分子認識・生体分子と薬理活性.pdf",
@@ -53,6 +59,7 @@
           ],
           "file_links": {
             "医薬品化学_第1回_復習資料（分子認識・酵素反応・核酸入門）.pdf": "https://drive.google.com/file/d/1Y6--eMzxF_2ShGhVUqXOpDcYrKjWK5dT/view?usp=drivesdk",
+            "医薬品化学_第1回_授業の要点・復習ノート.txt": "https://drive.google.com/file/d/16iR6vBENNKwx9XNx5CVUtT8X4xw03-dW/view?usp=drivesdk",
             "医薬品化学_第1回_文字起こし（タイムスタンプ付き）.txt": "https://drive.google.com/file/d/1ah4qYvGBYJvzK43AzM8eo5X-WfSDFnkB/view?usp=drivesdk",
             "医薬品化学_第1回_文字起こし（校訂済）.txt": "https://drive.google.com/file/d/10BAyG-EK3jjvjKy4EvOey8OrEEhWx9tZ/view?usp=drivesdk",
             "医薬品化学_第1回_講義概要・分子認識・生体分子と薬理活性.pdf": "https://drive.google.com/file/d/1TWaw7p4S2klr2-ncb7z6tQhATheBXDqk/view?usp=drivesdk",
@@ -64,6 +71,7 @@
           "files": [
             "医薬品化学_第2回_創薬化学的思考法・創薬化学の基礎.pdf",
             "医薬品化学_第2回_復習資料（核酸・神経伝達物質・ステロイド・創薬化学）.pdf",
+            "医薬品化学_第2回_授業の要点・復習ノート.txt",
             "医薬品化学_第2回_文字起こし（タイムスタンプ付き）.txt",
             "医薬品化学_第2回_文字起こし（校訂済）.txt",
             "医薬品化学_第2回_録音.m4a"
@@ -71,6 +79,7 @@
           "file_links": {
             "医薬品化学_第2回_創薬化学的思考法・創薬化学の基礎.pdf": "https://drive.google.com/file/d/1vQxRF_lOQhxZ9szqvnAk5P2BBoldm80l/view?usp=drivesdk",
             "医薬品化学_第2回_復習資料（核酸・神経伝達物質・ステロイド・創薬化学）.pdf": "https://drive.google.com/file/d/18ASWKjxY6aMSw_zFKSOKinMLBh_QkSry/view?usp=drivesdk",
+            "医薬品化学_第2回_授業の要点・復習ノート.txt": "https://drive.google.com/file/d/1JX99Phj52T3oBGKIwK33rRJsLZpEX4us/view?usp=drivesdk",
             "医薬品化学_第2回_文字起こし（タイムスタンプ付き）.txt": "https://drive.google.com/file/d/1ci4yf3U-F0t4HxQR4V2o1emL8luW9XZ5/view?usp=drivesdk",
             "医薬品化学_第2回_文字起こし（校訂済）.txt": "https://drive.google.com/file/d/1AwE2CxvPbNX8BJD6RwYCsH5urVYhTMY9/view?usp=drivesdk",
             "医薬品化学_第2回_録音.m4a": "https://drive.google.com/file/d/1STWCzq1rj7lH0h0If4SjnPbefm9bUoxN/view?usp=drivesdk"
@@ -80,6 +89,7 @@
           "name": "第3回",
           "files": [
             "医薬品化学_第3回_創薬化学の基礎・化学構造と薬理活性1.pdf",
+            "医薬品化学_第3回_授業の要点・復習ノート.txt",
             "医薬品化学_第3回_文字起こし.txt",
             "医薬品化学_第3回_文字起こし（タイムスタンプ付き）.txt",
             "医薬品化学_第3回_文字起こし（再生HTML）.html",
@@ -88,6 +98,7 @@
           ],
           "file_links": {
             "医薬品化学_第3回_創薬化学の基礎・化学構造と薬理活性1.pdf": "https://drive.google.com/file/d/1q9zL-DALsAzHNmu2-czkVsb2etd_ZSAF/view?usp=drivesdk",
+            "医薬品化学_第3回_授業の要点・復習ノート.txt": "https://drive.google.com/file/d/1ltG7-3OEAhJ5yaRO7ktWVJNZEWifJtnM/view?usp=drivesdk",
             "医薬品化学_第3回_文字起こし.txt": "https://drive.google.com/file/d/1HS5eyX6cekqRwTHbGE7sWj6mnJEj8Q52/view?usp=drivesdk",
             "医薬品化学_第3回_文字起こし（タイムスタンプ付き）.txt": "https://drive.google.com/file/d/1JGWQWKFzdydrueIvc6ZFue68X5f94yCw/view?usp=drivesdk",
             "医薬品化学_第3回_文字起こし（再生HTML）.html": "https://drive.google.com/file/d/1nnWz7DiliUdLcSIYmAdOFEtKttv447Qi/view?usp=drivesdk",
@@ -99,6 +110,7 @@
           "name": "第4回",
           "files": [
             "医薬品化学_第4回_化学構造と薬理活性・タンパク質の有機化学.pdf",
+            "医薬品化学_第4回_授業の要点・復習ノート.txt",
             "医薬品化学_第4回_文字起こし.txt",
             "医薬品化学_第4回_文字起こし（タイムスタンプ付き）.txt",
             "医薬品化学_第4回_文字起こし（再生HTML）.html",
@@ -107,6 +119,7 @@
           ],
           "file_links": {
             "医薬品化学_第4回_化学構造と薬理活性・タンパク質の有機化学.pdf": "https://drive.google.com/file/d/1i9PfdZPt735rrdQis-rr4zyGBY1z-EGa/view?usp=drivesdk",
+            "医薬品化学_第4回_授業の要点・復習ノート.txt": "https://drive.google.com/file/d/1ZCUHgat9TpcByAdCF4Z5N2NPQM3ifLuA/view?usp=drivesdk",
             "医薬品化学_第4回_文字起こし.txt": "https://drive.google.com/file/d/19Imgj8Opi-o_bpVWZfk3s48gHE4GO2-I/view?usp=drivesdk",
             "医薬品化学_第4回_文字起こし（タイムスタンプ付き）.txt": "https://drive.google.com/file/d/1WtRVci6TnNBa4aKs_aGQPQmQ-jX4wx3V/view?usp=drivesdk",
             "医薬品化学_第4回_文字起こし（再生HTML）.html": "https://drive.google.com/file/d/12T24rhYRr5tzux_7ofMqhpP6MNdLOYD0/view?usp=drivesdk",
@@ -149,6 +162,7 @@
         {
           "name": "第1回",
           "files": [
+            "衛生化学1_第1回_授業の要点・復習ノート.txt",
             "衛生化学1_第1回_文字起こし.txt",
             "衛生化学1_第1回_文字起こし（タイムスタンプ付き）.txt",
             "衛生化学1_第1回_文字起こし（再生HTML）.html",
@@ -156,6 +170,7 @@
             "衛生化学1_第1回_録音.m4a"
           ],
           "file_links": {
+            "衛生化学1_第1回_授業の要点・復習ノート.txt": "https://drive.google.com/file/d/1g86MVVONHBuO5NMoA2pFCcBEqivl02Zj/view?usp=drivesdk",
             "衛生化学1_第1回_文字起こし.txt": "https://drive.google.com/file/d/1y6MS_gsl-HXbcC91QKgzBIg10tl2s7go/view?usp=drivesdk",
             "衛生化学1_第1回_文字起こし（タイムスタンプ付き）.txt": "https://drive.google.com/file/d/1bUBZGYxYGWe0XqhW6BLsO6FKoLSThQHt/view?usp=drivesdk",
             "衛生化学1_第1回_文字起こし（再生HTML）.html": "https://drive.google.com/file/d/1k5NTGk4YSW710Ssh5Sl16Yb3hiExQlqI/view?usp=drivesdk",
@@ -175,6 +190,7 @@
         {
           "name": "第3回",
           "files": [
+            "衛生化学1_第3回_授業の要点・復習ノート.txt",
             "衛生化学1_第3回_文字起こし.txt",
             "衛生化学1_第3回_文字起こし（タイムスタンプ付き）.txt",
             "衛生化学1_第3回_文字起こし（再生HTML）.html",
@@ -182,6 +198,7 @@
             "衛生化学1_第3回_録音.m4a"
           ],
           "file_links": {
+            "衛生化学1_第3回_授業の要点・復習ノート.txt": "https://drive.google.com/file/d/1lkuOz-ZoKyDLdErmSZux0Be-Hs_iablE/view?usp=drivesdk",
             "衛生化学1_第3回_文字起こし.txt": "https://drive.google.com/file/d/1S1RgeJKdwLhV5mhuQoju2B_kgM29VJxn/view?usp=drivesdk",
             "衛生化学1_第3回_文字起こし（タイムスタンプ付き）.txt": "https://drive.google.com/file/d/1gF4j2kldFsei-WnU95MEDCyHujl42EU0/view?usp=drivesdk",
             "衛生化学1_第3回_文字起こし（再生HTML）.html": "https://drive.google.com/file/d/1OywJJ0hA8Mjlc40E4pFTPlhPpxtTJqCk/view?usp=drivesdk",
@@ -201,6 +218,7 @@
         {
           "name": "第5回",
           "files": [
+            "衛生化学1_第5回_授業の要点・復習ノート.txt",
             "衛生化学1_第5回_文字起こし.txt",
             "衛生化学1_第5回_文字起こし（タイムスタンプ付き）.txt",
             "衛生化学1_第5回_文字起こし（再生HTML）.html",
@@ -208,6 +226,7 @@
             "衛生化学1_第5回_録音.m4a"
           ],
           "file_links": {
+            "衛生化学1_第5回_授業の要点・復習ノート.txt": "https://drive.google.com/file/d/1GmthUMgsV2Xdtm6hcj2aKYpAeOf2iB2w/view?usp=drivesdk",
             "衛生化学1_第5回_文字起こし.txt": "https://drive.google.com/file/d/1omo7gQUR_GzXD5VpsFYuuPmEoFecGq0v/view?usp=drivesdk",
             "衛生化学1_第5回_文字起こし（タイムスタンプ付き）.txt": "https://drive.google.com/file/d/17AW97LnboiT5RKU919141fRjPK2c0AOV/view?usp=drivesdk",
             "衛生化学1_第5回_文字起こし（再生HTML）.html": "https://drive.google.com/file/d/1z4F72ND7Vn9PlKmi3UCSXDScA94GGCOQ/view?usp=drivesdk",
@@ -218,6 +237,7 @@
         {
           "name": "第6回",
           "files": [
+            "衛生化学1_第6回_授業の要点・復習ノート.txt",
             "衛生化学1_第6回_文字起こし（1）.txt",
             "衛生化学1_第6回_文字起こし（1）（タイムスタンプ付き）.txt",
             "衛生化学1_第6回_文字起こし（1）（再生HTML）.html",
@@ -235,6 +255,7 @@
             "衛生化学1_第6回_録音（3）.m4a"
           ],
           "file_links": {
+            "衛生化学1_第6回_授業の要点・復習ノート.txt": "https://drive.google.com/file/d/17KqzyTYkz8R6E1SKvygyg-Rh8-BtntH2/view?usp=drivesdk",
             "衛生化学1_第6回_文字起こし（1）.txt": "https://drive.google.com/file/d/1QiC__5Xb5qsp99QBbN0GOKuc_H4vsRKK/view?usp=drivesdk",
             "衛生化学1_第6回_文字起こし（1）（タイムスタンプ付き）.txt": "https://drive.google.com/file/d/19yavtKM8TvUfRFDEj4wdVfmd7sJzlqpS/view?usp=drivesdk",
             "衛生化学1_第6回_文字起こし（1）（再生HTML）.html": "https://drive.google.com/file/d/1xZSVQ7obet59_tIjwssW7ZvIKx_JKf-C/view?usp=drivesdk",
@@ -255,6 +276,7 @@
         {
           "name": "第7回",
           "files": [
+            "衛生化学1_第7回_授業の要点・復習ノート.txt",
             "衛生化学1_第7回_文字起こし.txt",
             "衛生化学1_第7回_文字起こし（タイムスタンプ付き）.txt",
             "衛生化学1_第7回_文字起こし（再生HTML）.html",
@@ -262,6 +284,7 @@
             "衛生化学1_第7回_録音.m4a"
           ],
           "file_links": {
+            "衛生化学1_第7回_授業の要点・復習ノート.txt": "https://drive.google.com/file/d/1os04zzJ2DkP5mrZRI__v0GiT_1cTELap/view?usp=drivesdk",
             "衛生化学1_第7回_文字起こし.txt": "https://drive.google.com/file/d/1pSRAaCe_5rjz0Ntm3hH9P7BOqrcQS8hT/view?usp=drivesdk",
             "衛生化学1_第7回_文字起こし（タイムスタンプ付き）.txt": "https://drive.google.com/file/d/17HnwxEzwo2VAsU39oSiNtAvZmN3TW2Wc/view?usp=drivesdk",
             "衛生化学1_第7回_文字起こし（再生HTML）.html": "https://drive.google.com/file/d/1Po9V8PVQus-mMmtOvAdXUfeYRf0dagj9/view?usp=drivesdk",
@@ -299,6 +322,7 @@
           "name": "第1回",
           "files": [
             "構造化学_第1回_復習ガイド（光の基礎・電子状態・吸光度）.pdf",
+            "構造化学_第1回_授業の要点・復習ノート.txt",
             "構造化学_第1回_文字起こし（タイムスタンプ付き）.txt",
             "構造化学_第1回_文字起こし（校訂済）.txt",
             "構造化学_第1回_文字起こし.txt",
@@ -308,6 +332,7 @@
           ],
           "file_links": {
             "構造化学_第1回_復習ガイド（光の基礎・電子状態・吸光度）.pdf": "https://drive.google.com/file/d/1inXEf1wSSUBmk4rLoh0uGif7ZYd8NUGF/view?usp=drivesdk",
+            "構造化学_第1回_授業の要点・復習ノート.txt": "https://drive.google.com/file/d/1HOxqqtC6Sf97AEPMb69hlUQYiKpVIXfN/view?usp=drivesdk",
             "構造化学_第1回_文字起こし（タイムスタンプ付き）.txt": "https://drive.google.com/file/d/1tkve1SR4qlDVsR6qAjygOwJTKbBjpA4i/view?usp=drivesdk",
             "構造化学_第1回_文字起こし（校訂済）.txt": "https://drive.google.com/file/d/1TrlX-SPODlfeSl17O83Tgh5sApzJCPH1/view?usp=drivesdk",
             "構造化学_第1回_文字起こし.txt": "https://drive.google.com/file/d/184vGv6xdCTSso6uCArMKyOBW1PgATHT_/view?usp=drivesdk",
@@ -320,6 +345,7 @@
           "name": "第2回",
           "files": [
             "構造化学_第2回_復習ガイド（Lambert-Beer則・遷移・振動構造）.pdf",
+            "構造化学_第2回_授業の要点・復習ノート.txt",
             "構造化学_第2回_文字起こし（タイムスタンプ付き）.txt",
             "構造化学_第2回_文字起こし（校訂済）.txt",
             "構造化学_第2回_画像.jpg",
@@ -327,6 +353,7 @@
           ],
           "file_links": {
             "構造化学_第2回_復習ガイド（Lambert-Beer則・遷移・振動構造）.pdf": "https://drive.google.com/file/d/1zyOIbeT5-OR807tjNoTHeri2eTtIfk0u/view?usp=drivesdk",
+            "構造化学_第2回_授業の要点・復習ノート.txt": "https://drive.google.com/file/d/1XvGzdgVtZik64e7zCMAepiE6udEGJmWB/view?usp=drivesdk",
             "構造化学_第2回_文字起こし（タイムスタンプ付き）.txt": "https://drive.google.com/file/d/1g-jtgzi2HVFk_wzQGLVoA4vytL-wTTB-/view?usp=drivesdk",
             "構造化学_第2回_文字起こし（校訂済）.txt": "https://drive.google.com/file/d/1Oe1rmQ3kBC-WouSM255Oq985TSg5RCUE/view?usp=drivesdk",
             "構造化学_第2回_画像.jpg": "https://drive.google.com/file/d/1FR7pHBjXbypgwwAjToQqeXkIFbrzkrfq/view?usp=drivesdk",
@@ -345,12 +372,14 @@
         {
           "name": "第3回",
           "files": [
+            "構造化学_第3回_授業の要点・復習ノート.txt",
             "構造化学_第3回_文字起こし（タイムスタンプ付き）.txt",
             "構造化学_第3回_文字起こし.txt",
             "構造化学_第3回_文字起こし（講義資料照合・校訂版）.txt",
             "構造化学_第3回_録音.m4a"
           ],
           "file_links": {
+            "構造化学_第3回_授業の要点・復習ノート.txt": "https://drive.google.com/file/d/1G6Nb9KE83IKtR2HirgVzaas5WTEW6KVz/view?usp=drivesdk",
             "構造化学_第3回_文字起こし（タイムスタンプ付き）.txt": "https://drive.google.com/file/d/1yPZTp8iCn6NxFzaYGZa6zl5ykJJw23a8/view?usp=drivesdk",
             "構造化学_第3回_文字起こし.txt": "https://drive.google.com/file/d/1gbo7_1qiy84N7NUs9mity1xvbhcy97mW/view?usp=drivesdk",
             "構造化学_第3回_文字起こし（講義資料照合・校訂版）.txt": "https://drive.google.com/file/d/1yTsnRvWEKAV6mocyVfYI8KwfpTO7Tp5i/view?usp=drivesdk",
@@ -360,6 +389,7 @@
         {
           "name": "第4回",
           "files": [
+            "構造化学_第4回_授業の要点・復習ノート.txt",
             "構造化学_第4回_文字起こし（タイムスタンプ付き）.txt",
             "構造化学_第4回_文字起こし（再生HTML）.html",
             "構造化学_第4回_文字起こし.txt",
@@ -367,6 +397,7 @@
             "構造化学_第4回_録音.m4a"
           ],
           "file_links": {
+            "構造化学_第4回_授業の要点・復習ノート.txt": "https://drive.google.com/file/d/1iB7RhFDgzxlnKYK-PKsyNFrGHqFyFWsk/view?usp=drivesdk",
             "構造化学_第4回_文字起こし（タイムスタンプ付き）.txt": "https://drive.google.com/file/d/112jSfpyirO86RKRR28WECuaDn5FZDMy_/view?usp=drivesdk",
             "構造化学_第4回_文字起こし（再生HTML）.html": "https://drive.google.com/file/d/1xrIuQy84FwoJctXJ1D9b5za28t_i4r6r/view?usp=drivesdk",
             "構造化学_第4回_文字起こし.txt": "https://drive.google.com/file/d/1JsPvgXw4rtQKaFigaqffjw5x-HGvDr52/view?usp=drivesdk",
@@ -377,6 +408,7 @@
         {
           "name": "第5回",
           "files": [
+            "構造化学_第5回_授業の要点・復習ノート.txt",
             "構造化学_第5回_文字起こし.txt",
             "構造化学_第5回_文字起こし（タイムスタンプ付き）.txt",
             "構造化学_第5回_文字起こし（再生HTML）.html",
@@ -384,6 +416,7 @@
             "構造化学_第5回_録音.m4a"
           ],
           "file_links": {
+            "構造化学_第5回_授業の要点・復習ノート.txt": "https://drive.google.com/file/d/1Gt9VIaPp6QqEnvNH1c7fMrtBCcCapV7M/view?usp=drivesdk",
             "構造化学_第5回_文字起こし.txt": "https://drive.google.com/file/d/1algwjMoOZduyGCOMV223LFsI7d6NaWMo/view?usp=drivesdk",
             "構造化学_第5回_文字起こし（タイムスタンプ付き）.txt": "https://drive.google.com/file/d/1bpN6azkbpBaUDPXMxY1em6iCZYqkF45S/view?usp=drivesdk",
             "構造化学_第5回_文字起こし（再生HTML）.html": "https://drive.google.com/file/d/1bXkgocl2t1Hgy_pkhcojm2TkuSIuvFsU/view?usp=drivesdk",
@@ -702,6 +735,7 @@
         {
           "name": "第1回",
           "files": [
+            "物理化学2_第1回_授業の要点・復習ノート.txt",
             "物理化学2_第1回_文字起こし（タイムスタンプ付き）.txt",
             "物理化学2_第1回_文字起こし（再生HTML）.html",
             "物理化学2_第1回_文字起こし.txt",
@@ -710,6 +744,7 @@
             "物理化学2_第1回_録音（冒頭約5分44秒を除いた版）.wav"
           ],
           "file_links": {
+            "物理化学2_第1回_授業の要点・復習ノート.txt": "https://drive.google.com/file/d/14HZG8f4Re17LMpsjBWkqnvzwZm1y2c6m/view?usp=drivesdk",
             "物理化学2_第1回_文字起こし（タイムスタンプ付き）.txt": "https://drive.google.com/file/d/1fDR3N77nxTwHjjBsGWXq3zJa0V38gopq/view?usp=drivesdk",
             "物理化学2_第1回_文字起こし（再生HTML）.html": "https://drive.google.com/file/d/1ZTdN2ND_2ssLUQEaPZjRNjFhkk-mUn8Z/view?usp=drivesdk",
             "物理化学2_第1回_文字起こし.txt": "https://drive.google.com/file/d/1spuZgCnHgYPmZfRfUNNOplppeB0WM0lO/view?usp=drivesdk",
@@ -722,12 +757,14 @@
           "name": "第2回",
           "files": [
             "物理化学2_第2回_分散系とコロイド1（具体例・特徴）.pdf",
+            "物理化学2_第2回_授業の要点・復習ノート.txt",
             "物理化学2_第2回_文字起こし（タイムスタンプ付き）.txt",
             "物理化学2_第2回_文字起こし（講義資料照合・校訂版）.txt",
             "物理化学2_第2回_録音.m4a"
           ],
           "file_links": {
             "物理化学2_第2回_分散系とコロイド1（具体例・特徴）.pdf": "https://drive.google.com/file/d/1is04DedwsH0elBlaV5xvjAp_CtLk8DmM/view?usp=drivesdk",
+            "物理化学2_第2回_授業の要点・復習ノート.txt": "https://drive.google.com/file/d/10CJ7MZ1ebd-q2l8KND8t_jMts397Ffcq/view?usp=drivesdk",
             "物理化学2_第2回_文字起こし（タイムスタンプ付き）.txt": "https://drive.google.com/file/d/193Z_jxnXNKb74_2Fh3FSAzGiEBv0sYHq/view?usp=drivesdk",
             "物理化学2_第2回_文字起こし（講義資料照合・校訂版）.txt": "https://drive.google.com/file/d/148AJkTmyayYNT0JlKQ9E6x650BDo98K4/view?usp=drivesdk",
             "物理化学2_第2回_録音.m4a": "https://drive.google.com/file/d/1rv4_uUfDey7HJGtmPuaSg6BbPZJu4gpa/view?usp=drivesdk"
@@ -736,6 +773,7 @@
         {
           "name": "第3回",
           "files": [
+            "物理化学2_第3回_授業の要点・復習ノート.txt",
             "物理化学2_第3回_文字起こし（タイムスタンプ付き）.txt",
             "物理化学2_第3回_文字起こし（講義資料照合・校訂版）.txt",
             "物理化学2_第3回_粒子の沈降・平均モル質量・沈降速度.pdf",
@@ -743,6 +781,7 @@
             "物理化学2_第3回_分散系とコロイド2（安定性・分離現象）.pdf"
           ],
           "file_links": {
+            "物理化学2_第3回_授業の要点・復習ノート.txt": "https://drive.google.com/file/d/1VaBiOKcj-xVWqfkU53C7_le7fZAkk2r9/view?usp=drivesdk",
             "物理化学2_第3回_文字起こし（タイムスタンプ付き）.txt": "https://drive.google.com/file/d/1o3oH7e4oV8yO5oN8CWeaEdSnncjeh6xV/view?usp=drivesdk",
             "物理化学2_第3回_文字起こし（講義資料照合・校訂版）.txt": "https://drive.google.com/file/d/1Ai42bCvPVVqr7dRfciGThgwL3j-TAbr0/view?usp=drivesdk",
             "物理化学2_第3回_粒子の沈降・平均モル質量・沈降速度.pdf": "https://drive.google.com/file/d/1PTnBm-4tz4sFaCXKRz2_FR2bUDC9DuVj/view?usp=drivesdk",
@@ -753,6 +792,7 @@
         {
           "name": "第4回",
           "files": [
+            "物理化学2_第4回_授業の要点・復習ノート.txt",
             "物理化学2_第4回_文字起こし.txt",
             "物理化学2_第4回_文字起こし（タイムスタンプ付き）.txt",
             "物理化学2_第4回_文字起こし（再生HTML）.html",
@@ -761,6 +801,7 @@
             "物理化学2_第4回_録音.m4a"
           ],
           "file_links": {
+            "物理化学2_第4回_授業の要点・復習ノート.txt": "https://drive.google.com/file/d/17PUqlA7wAtQjIb-1BvDPC5JNsWa9Dye1/view?usp=drivesdk",
             "物理化学2_第4回_文字起こし.txt": "https://drive.google.com/file/d/1fiZlu3MUQT_peeIUY7cIt3fv9cWKE2cm/view?usp=drivesdk",
             "物理化学2_第4回_文字起こし（タイムスタンプ付き）.txt": "https://drive.google.com/file/d/1iksuW6WhEi9IYkvZP47Tx-K5-q7dXPTR/view?usp=drivesdk",
             "物理化学2_第4回_文字起こし（再生HTML）.html": "https://drive.google.com/file/d/1vhoYNggNgXJRimp9vBAEotqllSVHYnSG/view?usp=drivesdk",
@@ -795,12 +836,14 @@
           "files": [
             "分析化学2_第1回_定性薬品分析概論.pdf",
             "分析化学2_第1回_復習ノート・解説と栞（定性薬品分析概論）.pdf",
+            "分析化学2_第1回_授業の要点・復習ノート.txt",
             "分析化学2_第1回_文字起こし（校訂済）.txt",
             "分析化学2_第1回_録音.m4a"
           ],
           "file_links": {
             "分析化学2_第1回_定性薬品分析概論.pdf": "https://drive.google.com/file/d/1dT0tegUI_deem0U61On25dLxFbf4sK9n/view?usp=drivesdk",
             "分析化学2_第1回_復習ノート・解説と栞（定性薬品分析概論）.pdf": "https://drive.google.com/file/d/17xoZEDu9rOC921HzLiN4fLFhktTRqjlB/view?usp=drivesdk",
+            "分析化学2_第1回_授業の要点・復習ノート.txt": "https://drive.google.com/file/d/1E_ue9bil4r-dHZscwopc4BeNPEyjaEuf/view?usp=drivesdk",
             "分析化学2_第1回_文字起こし（校訂済）.txt": "https://drive.google.com/file/d/1JlhdElbg_vToXtYeCmBkLXTrrtKfXTKO/view?usp=drivesdk",
             "分析化学2_第1回_録音.m4a": "https://drive.google.com/file/d/1-wCFn-YOH3cLTE2qwMugUPFdA0aiZm2r/view?usp=drivesdk"
           }
@@ -808,12 +851,14 @@
         {
           "name": "第2回",
           "files": [
+            "分析化学2_第2回_授業の要点・復習ノート.txt",
             "分析化学2_第2回_文字起こし（タイムスタンプ付き）.txt",
             "分析化学2_第2回_文字起こし（講義資料照合・校訂版）.txt",
             "分析化学2_第2回_紫外可視吸光度測定法.pdf",
             "分析化学2_第2回_録音.m4a"
           ],
           "file_links": {
+            "分析化学2_第2回_授業の要点・復習ノート.txt": "https://drive.google.com/file/d/19Ql_ZpmA6GoxCLmnHGN58ubx5Q4sfy2o/view?usp=drivesdk",
             "分析化学2_第2回_文字起こし（タイムスタンプ付き）.txt": "https://drive.google.com/file/d/1VayRQBYVWGypjbDOmhzvrVfRoyLG4b5Z/view?usp=drivesdk",
             "分析化学2_第2回_文字起こし（講義資料照合・校訂版）.txt": "https://drive.google.com/file/d/1NYvLPShOYBdZbuiE9xSh7N1YPB_TU_nw/view?usp=drivesdk",
             "分析化学2_第2回_紫外可視吸光度測定法.pdf": "https://drive.google.com/file/d/1FYH8sEbcXLojcjiS6Elp8NMfwdrtaMk2/view?usp=drivesdk",
@@ -823,12 +868,14 @@
         {
           "name": "第3回",
           "files": [
+            "分析化学2_第3回_授業の要点・復習ノート.txt",
             "分析化学2_第3回_文字起こし（タイムスタンプ付き）.txt",
             "分析化学2_第3回_文字起こし（講義資料照合・校訂版）.txt",
             "分析化学2_第3回_蛍光光度法・リン光・化学発光.pdf",
             "分析化学2_第3回_録音.m4a"
           ],
           "file_links": {
+            "分析化学2_第3回_授業の要点・復習ノート.txt": "https://drive.google.com/file/d/1Ohgvy4xtmWbGHeNpcsQcwEj0NrAUfzfX/view?usp=drivesdk",
             "分析化学2_第3回_文字起こし（タイムスタンプ付き）.txt": "https://drive.google.com/file/d/1bccMaplQ9ilBOpFKkBXfjKQ6C7YBc_pL/view?usp=drivesdk",
             "分析化学2_第3回_文字起こし（講義資料照合・校訂版）.txt": "https://drive.google.com/file/d/1V12LjBt2fIMwCR9SSSYcywDm5aYG_XdC/view?usp=drivesdk",
             "分析化学2_第3回_蛍光光度法・リン光・化学発光.pdf": "https://drive.google.com/file/d/1gjdd6NIQHdRjekiTCQcUW3s0_TUKzLUs/view?usp=drivesdk",
@@ -839,6 +886,7 @@
           "name": "第4回",
           "files": [
             "分析化学2_第4回_クロマトグラフィーの基礎I.pdf",
+            "分析化学2_第4回_授業の要点・復習ノート.txt",
             "分析化学2_第4回_文字起こし.txt",
             "分析化学2_第4回_文字起こし（タイムスタンプ付き）.txt",
             "分析化学2_第4回_文字起こし（再生HTML）.html",
@@ -847,6 +895,7 @@
           ],
           "file_links": {
             "分析化学2_第4回_クロマトグラフィーの基礎I.pdf": "https://drive.google.com/file/d/1mPsuy4E1tpZZtxfixQlgKX4AftRg6tp4/view?usp=drivesdk",
+            "分析化学2_第4回_授業の要点・復習ノート.txt": "https://drive.google.com/file/d/1h8GPzyreE_TcJaRZ3ApoXXJdPxmXIO98/view?usp=drivesdk",
             "分析化学2_第4回_文字起こし.txt": "https://drive.google.com/file/d/1wdx76CS_T0fX4Zk7_6pYd7hy5E4SCLvB/view?usp=drivesdk",
             "分析化学2_第4回_文字起こし（タイムスタンプ付き）.txt": "https://drive.google.com/file/d/1Qk58fKk_hs6_C4w4qeAdFwH1Ls3nMcNR/view?usp=drivesdk",
             "分析化学2_第4回_文字起こし（再生HTML）.html": "https://drive.google.com/file/d/1qixVhBW1DEB6k5b1D4fmD4M57sfU6qOC/view?usp=drivesdk",
@@ -899,12 +948,14 @@
           "files": [
             "放射化学_第1回_原子核と放射能・講義案内.pdf",
             "放射化学_第1回_復習ノート・解説と栞（原子核と放射能）.pdf",
+            "放射化学_第1回_授業の要点・復習ノート.txt",
             "放射化学_第1回_文字起こし（校訂済）.txt",
             "放射化学_第1回_録音.m4a"
           ],
           "file_links": {
             "放射化学_第1回_原子核と放射能・講義案内.pdf": "https://drive.google.com/file/d/1kZxGn2m361yO9ZYgnwZZUM7heeL5WnCp/view?usp=drivesdk",
             "放射化学_第1回_復習ノート・解説と栞（原子核と放射能）.pdf": "https://drive.google.com/file/d/1406lcP9sUVO9cJFSzCji0Fjdj0078Um8/view?usp=drivesdk",
+            "放射化学_第1回_授業の要点・復習ノート.txt": "https://drive.google.com/file/d/1SeNXKOYJpguB_Do2Wn23mteekijXlD84/view?usp=drivesdk",
             "放射化学_第1回_文字起こし（校訂済）.txt": "https://drive.google.com/file/d/1huRgxtrFju1kUtD1ev2djzIsxFfcfMSR/view?usp=drivesdk",
             "放射化学_第1回_録音.m4a": "https://drive.google.com/file/d/1y2z99KyIFsyX9XI1QskCtfQ0Ei863iCt/view?usp=drivesdk"
           }
@@ -925,6 +976,7 @@
         {
           "name": "第3回",
           "files": [
+            "放射化学_第3回_授業の要点・復習ノート.txt",
             "放射化学_第3回_放射性医薬品・放射線と放射能.pdf",
             "放射化学_第3回_文字起こし（タイムスタンプ付き）.txt",
             "放射化学_第3回_文字起こし（再生HTML）.html",
@@ -933,6 +985,7 @@
             "放射化学_第3回_録音.m4a"
           ],
           "file_links": {
+            "放射化学_第3回_授業の要点・復習ノート.txt": "https://drive.google.com/file/d/1QKO3fPHS38kdH622L8BKNT8UL6bVs5XC/view?usp=drivesdk",
             "放射化学_第3回_放射性医薬品・放射線と放射能.pdf": "https://drive.google.com/file/d/1vkzjPwuSHh9V9lcMNzENzBDgk6dKG9g3/view?usp=drivesdk",
             "放射化学_第3回_文字起こし（タイムスタンプ付き）.txt": "https://drive.google.com/file/d/1SeEy7sKjyuKUGn6exudlojz_ESyW_a1Q/view?usp=drivesdk",
             "放射化学_第3回_文字起こし（再生HTML）.html": "https://drive.google.com/file/d/1sxDASLYqo7LOaauZcGFASzvJAJ-Ujl1Q/view?usp=drivesdk",
@@ -955,6 +1008,7 @@
         {
           "name": "第5回",
           "files": [
+            "放射化学_第5回_授業の要点・復習ノート.txt",
             "放射化学_第5回_放射線測定法I（検出原理・測定器・補正）.pdf",
             "放射化学_第5回_文字起こし（タイムスタンプ付き）.txt",
             "放射化学_第5回_文字起こし（再生HTML）.html",
@@ -963,6 +1017,7 @@
             "放射化学_第5回_録音.m4a"
           ],
           "file_links": {
+            "放射化学_第5回_授業の要点・復習ノート.txt": "https://drive.google.com/file/d/1_g8xD6f6RcXT7CAiHdvBYnGmCdP9FneX/view?usp=drivesdk",
             "放射化学_第5回_放射線測定法I（検出原理・測定器・補正）.pdf": "https://drive.google.com/file/d/12lnAk8Xk7HGB8_CDhSfE5su6FRXSKqcG/view?usp=drivesdk",
             "放射化学_第5回_文字起こし（タイムスタンプ付き）.txt": "https://drive.google.com/file/d/1mExQ4abEtAitqe3NHhps-NoivDBuI1NZ/view?usp=drivesdk",
             "放射化学_第5回_文字起こし（再生HTML）.html": "https://drive.google.com/file/d/1s-dAAp4eWY3Z0x-Y6gWDWlDjv6oUfFd7/view?usp=drivesdk",
@@ -1024,6 +1079,7 @@
             "薬剤学2_第1回_コンパートメント理論の概論と基礎（2）.pdf",
             "薬剤学2_第1回_コンパートメント理論の概論と基礎.pdf",
             "薬剤学2_第1回_復習ノート（1コンパートメント・投与設計）.pdf",
+            "薬剤学2_第1回_授業の要点・復習ノート.txt",
             "薬剤学2_第1回_文字起こし（校訂済）.txt",
             "薬剤学2_第1回_演習1-1〜1-2解答・解説（分布容積・消失速度・クリアランス）.pdf",
             "薬剤学2_第1回_録音.m4a",
@@ -1033,6 +1089,7 @@
             "薬剤学2_第1回_コンパートメント理論の概論と基礎（2）.pdf": "https://drive.google.com/file/d/1biHgEIIeWTtpdFXMvybA4ESFmuTs3SUM/view?usp=drivesdk",
             "薬剤学2_第1回_コンパートメント理論の概論と基礎.pdf": "https://drive.google.com/file/d/1pGEOPWouqqOiHR9gUl8P1_J0zilQg8V9/view?usp=drivesdk",
             "薬剤学2_第1回_復習ノート（1コンパートメント・投与設計）.pdf": "https://drive.google.com/file/d/16X5pKXBVH1DUD3r-GwiaL5i5L8yIr6hv/view?usp=drivesdk",
+            "薬剤学2_第1回_授業の要点・復習ノート.txt": "https://drive.google.com/file/d/1E1CjNPEAhM6vxEnUFgYwcUK1y97AT3Zk/view?usp=drivesdk",
             "薬剤学2_第1回_文字起こし（校訂済）.txt": "https://drive.google.com/file/d/1kiw0fP05-pIB5lEO9vvVLZXytLwFbNau/view?usp=drivesdk",
             "薬剤学2_第1回_演習1-1〜1-2解答・解説（分布容積・消失速度・クリアランス）.pdf": "https://drive.google.com/file/d/1mL8kWvqaWs30eOowSmOMo8ypnfxHSWsZ/view?usp=drivesdk",
             "薬剤学2_第1回_録音.m4a": "https://drive.google.com/file/d/1tFSfXLmhLNN0I--o08Z11zc7kStH4_-b/view?usp=drivesdk",
@@ -1044,6 +1101,7 @@
           "files": [
             "薬剤学2_第2回_コンパートメント理論の応用.pdf",
             "薬剤学2_第2回_復習ノート（2コンパートメント・残余法・AUC）.pdf",
+            "薬剤学2_第2回_授業の要点・復習ノート.txt",
             "薬剤学2_第2回_文字起こし（タイムスタンプ付き）.txt",
             "薬剤学2_第2回_文字起こし（再生HTML）.html",
             "薬剤学2_第2回_文字起こし（時刻なし）.txt",
@@ -1055,6 +1113,7 @@
           "file_links": {
             "薬剤学2_第2回_コンパートメント理論の応用.pdf": "https://drive.google.com/file/d/1Mpt8gqy-Qm81nVpW6xFavnr4ZWuAanLm/view?usp=drivesdk",
             "薬剤学2_第2回_復習ノート（2コンパートメント・残余法・AUC）.pdf": "https://drive.google.com/file/d/1EIK5KY4c8MWy13n61TCuo5PNIfdQ8sdM/view?usp=drivesdk",
+            "薬剤学2_第2回_授業の要点・復習ノート.txt": "https://drive.google.com/file/d/1xAX-UIUIAzss-OXRAfFkocskq-CGx-O9/view?usp=drivesdk",
             "薬剤学2_第2回_文字起こし（タイムスタンプ付き）.txt": "https://drive.google.com/file/d/14_TGL3SXiP84vcSnk8bn9P6KlUTDVH2x/view?usp=drivesdk",
             "薬剤学2_第2回_文字起こし（再生HTML）.html": "https://drive.google.com/file/d/1aRPcxqHCLVTT-0X9uFgA420WnH_ONlrI/view?usp=drivesdk",
             "薬剤学2_第2回_文字起こし（時刻なし）.txt": "https://drive.google.com/file/d/12VxM27q-uBRst7azwHzQMghd5nm9PX7G/view?usp=drivesdk",
@@ -1068,6 +1127,7 @@
           "name": "第3回",
           "files": [
             "薬剤学2_第3回_復習ガイド（尿中排泄・点滴・負荷投与）.pdf",
+            "薬剤学2_第3回_授業の要点・復習ノート.txt",
             "薬剤学2_第3回_文字起こし（タイムスタンプ付き）.txt",
             "薬剤学2_第3回_文字起こし（校訂済）.txt",
             "薬剤学2_第3回_文字起こし.txt",
@@ -1077,6 +1137,7 @@
           ],
           "file_links": {
             "薬剤学2_第3回_復習ガイド（尿中排泄・点滴・負荷投与）.pdf": "https://drive.google.com/file/d/1VJ86rJPCTf82lyhPfULxRrsGYvExU20s/view?usp=drivesdk",
+            "薬剤学2_第3回_授業の要点・復習ノート.txt": "https://drive.google.com/file/d/1X3BDVrcIqulBFS5h4RzOhAP2rAOZQdWg/view?usp=drivesdk",
             "薬剤学2_第3回_文字起こし（タイムスタンプ付き）.txt": "https://drive.google.com/file/d/1rc2ACznAp9nIOFn2GJSJvC_LrleHGlCy/view?usp=drivesdk",
             "薬剤学2_第3回_文字起こし（校訂済）.txt": "https://drive.google.com/file/d/1kFNFAnik4ZixPchXuqvLDcQNqjF5qIIZ/view?usp=drivesdk",
             "薬剤学2_第3回_文字起こし.txt": "https://drive.google.com/file/d/1KeZWIgTZvAAugrl99h_9OF-uejeOfzk-/view?usp=drivesdk",
@@ -1088,6 +1149,7 @@
         {
           "name": "第4回",
           "files": [
+            "薬剤学2_第4回_授業の要点・復習ノート.txt",
             "薬剤学2_第4回_文字起こし.txt",
             "薬剤学2_第4回_文字起こし（タイムスタンプ付き）.txt",
             "薬剤学2_第4回_文字起こし（一次校訂・タイムスタンプ付き）.txt",
@@ -1098,6 +1160,7 @@
             "薬剤学2_第4回_録音.m4a"
           ],
           "file_links": {
+            "薬剤学2_第4回_授業の要点・復習ノート.txt": "https://drive.google.com/file/d/1vwUBWLxCx9cxcxGzgraU2pRkFZz6ENCz/view?usp=drivesdk",
             "薬剤学2_第4回_文字起こし.txt": "https://drive.google.com/file/d/1XNXwLGHN6r1qVoki4-ZFAd59zOYJ92ZX/view?usp=drivesdk",
             "薬剤学2_第4回_文字起こし（タイムスタンプ付き）.txt": "https://drive.google.com/file/d/1FGMmDAkhRtxXbk-5Og4QExlKcBXqDX9G/view?usp=drivesdk",
             "薬剤学2_第4回_文字起こし（一次校訂・タイムスタンプ付き）.txt": "https://drive.google.com/file/d/1yrXwlrWl1L8QkSOA6b0XyTmb9cjPFoq7/view?usp=drivesdk",
@@ -1113,6 +1176,7 @@
           "files": [
             "薬剤学2_第5回_小テスト解答・計算例（点滴・反復投与）.pdf",
             "薬剤学2_第5回_小テスト資料（添付文書・薬物動態パラメータ）.pdf",
+            "薬剤学2_第5回_授業の要点・復習ノート.txt",
             "薬剤学2_第5回_文字起こし（タイムスタンプ付き）.txt",
             "薬剤学2_第5回_文字起こし（一次校訂・タイムスタンプ付き）.txt",
             "薬剤学2_第5回_文字起こし（再生HTML）.html",
@@ -1125,6 +1189,7 @@
           "file_links": {
             "薬剤学2_第5回_小テスト解答・計算例（点滴・反復投与）.pdf": "https://drive.google.com/file/d/1SYJ7HZNcsvx4ATNTlVV703Ma0EIxhZ8L/view?usp=drivesdk",
             "薬剤学2_第5回_小テスト資料（添付文書・薬物動態パラメータ）.pdf": "https://drive.google.com/file/d/16kslJWfn-kCBtTEnsstZ0drsBR6EHP2Y/view?usp=drivesdk",
+            "薬剤学2_第5回_授業の要点・復習ノート.txt": "https://drive.google.com/file/d/1cpXRwRqx2WZ2FLCddsiAvzvxJ9CjC9X2/view?usp=drivesdk",
             "薬剤学2_第5回_文字起こし（タイムスタンプ付き）.txt": "https://drive.google.com/file/d/1QG0qVRu7pVttpn0Ecj_38tPrOhyD3TjJ/view?usp=drivesdk",
             "薬剤学2_第5回_文字起こし（一次校訂・タイムスタンプ付き）.txt": "https://drive.google.com/file/d/1fid-W04VsOZcFwzmXAMnEH6aQNY4pF9X/view?usp=drivesdk",
             "薬剤学2_第5回_文字起こし（再生HTML）.html": "https://drive.google.com/file/d/17pbvB5W6T_YO4UcRQ3wETZnSMI9s1S2N/view?usp=drivesdk",
@@ -1149,6 +1214,7 @@
         {
           "name": "第7回",
           "files": [
+            "薬剤学2_第7回_授業の要点・復習ノート.txt",
             "薬剤学2_第7回_文字起こし.txt",
             "薬剤学2_第7回_文字起こし（タイムスタンプ付き）.txt",
             "薬剤学2_第7回_文字起こし（一次校訂・タイムスタンプ付き）.txt",
@@ -1158,6 +1224,7 @@
             "薬剤学2_第7回_録音.m4a"
           ],
           "file_links": {
+            "薬剤学2_第7回_授業の要点・復習ノート.txt": "https://drive.google.com/file/d/1AccMDvLjkBSpCtcV4REiWf47Dzq4eNKP/view?usp=drivesdk",
             "薬剤学2_第7回_文字起こし.txt": "https://drive.google.com/file/d/13NBYEACJs9OqTTlAGZZxVmas-KYyRwYh/view?usp=drivesdk",
             "薬剤学2_第7回_文字起こし（タイムスタンプ付き）.txt": "https://drive.google.com/file/d/1Bm8VgzppWhNQp87-GRWCS9zTdauLRYyE/view?usp=drivesdk",
             "薬剤学2_第7回_文字起こし（一次校訂・タイムスタンプ付き）.txt": "https://drive.google.com/file/d/1WTQ6jHosHYNFArymMERQPo0ODhDK6uOp/view?usp=drivesdk",
@@ -1249,6 +1316,7 @@
           "name": "第1回",
           "files": [
             "薬品構造解析学_第1回_復習ノート・重要箇所の栞（質量分析法）.pdf",
+            "薬品構造解析学_第1回_授業の要点・復習ノート.txt",
             "薬品構造解析学_第1回_文字起こし（タイムスタンプ付き）.txt",
             "薬品構造解析学_第1回_文字起こし（講義資料照合・校訂版）.txt",
             "薬品構造解析学_第1回_講義板書（質量分析法・EI・質量スペクトル）.pdf",
@@ -1256,6 +1324,7 @@
           ],
           "file_links": {
             "薬品構造解析学_第1回_復習ノート・重要箇所の栞（質量分析法）.pdf": "https://drive.google.com/file/d/1RpfgrFiM5go6_54vjLppmC0CwnMeXbt5/view?usp=drivesdk",
+            "薬品構造解析学_第1回_授業の要点・復習ノート.txt": "https://drive.google.com/file/d/14L9Lyora6SgVHrQj9zmIvx2esR9TZPOL/view?usp=drivesdk",
             "薬品構造解析学_第1回_文字起こし（タイムスタンプ付き）.txt": "https://drive.google.com/file/d/1TUJGaTINi91wWLBa8Syb-VpA2FzUwRL1/view?usp=drivesdk",
             "薬品構造解析学_第1回_文字起こし（講義資料照合・校訂版）.txt": "https://drive.google.com/file/d/1SEj1uRb6QWrmUlcglIDdroKa17wjI5TS/view?usp=drivesdk",
             "薬品構造解析学_第1回_講義板書（質量分析法・EI・質量スペクトル）.pdf": "https://drive.google.com/file/d/1IBR9L9zBxDh2MkjlDRLHcUMCeTX1Kwfc/view?usp=drivesdk",
@@ -1266,6 +1335,7 @@
           "name": "第2回",
           "files": [
             "薬品構造解析学_第2回_復習ノート（IRの基礎・吸収位置）.pdf",
+            "薬品構造解析学_第2回_授業の要点・復習ノート.txt",
             "薬品構造解析学_第2回_文字起こし（タイムスタンプ付き）.txt",
             "薬品構造解析学_第2回_文字起こし（校訂済）.txt",
             "薬品構造解析学_第2回_録音（2）.m4a",
@@ -1273,6 +1343,7 @@
           ],
           "file_links": {
             "薬品構造解析学_第2回_復習ノート（IRの基礎・吸収位置）.pdf": "https://drive.google.com/file/d/1j6qpWOuAwUw0KkVUQmlWPTwrP9n9nz4N/view?usp=drivesdk",
+            "薬品構造解析学_第2回_授業の要点・復習ノート.txt": "https://drive.google.com/file/d/1P970JJY4yvAzbeHyguVqfTozR0g5ySgl/view?usp=drivesdk",
             "薬品構造解析学_第2回_文字起こし（タイムスタンプ付き）.txt": "https://drive.google.com/file/d/1PR1Pzb9yO1ENv2HibUneEXipgeK22hLl/view?usp=drivesdk",
             "薬品構造解析学_第2回_文字起こし（校訂済）.txt": "https://drive.google.com/file/d/1fmlrlRTKm31k3IKkWIMsBM-OkNUm3P7X/view?usp=drivesdk",
             "薬品構造解析学_第2回_録音（2）.m4a": "https://drive.google.com/file/d/12kLOdZKGyd83otmTR9e-S8Gh_tK5jUka/view?usp=drivesdk",
@@ -1283,12 +1354,14 @@
           "name": "第3回",
           "files": [
             "薬品構造解析学_第3回_復習ノート（IR官能基判別・NMR入門）.pdf",
+            "薬品構造解析学_第3回_授業の要点・復習ノート.txt",
             "薬品構造解析学_第3回_文字起こし（タイムスタンプ付き）.txt",
             "薬品構造解析学_第3回_文字起こし（校訂済）.txt",
             "薬品構造解析学_第3回_録音.m4a"
           ],
           "file_links": {
             "薬品構造解析学_第3回_復習ノート（IR官能基判別・NMR入門）.pdf": "https://drive.google.com/file/d/1VUwGUJ09AsYwwmCWI6fXR6Z16yU6OWq2/view?usp=drivesdk",
+            "薬品構造解析学_第3回_授業の要点・復習ノート.txt": "https://drive.google.com/file/d/1er0zOUYC14ezWCfcpTKbH6f-dvmCDQZ7/view?usp=drivesdk",
             "薬品構造解析学_第3回_文字起こし（タイムスタンプ付き）.txt": "https://drive.google.com/file/d/1ks_Bdccqlum1GW-8p6JSHuJP1cJFpuJZ/view?usp=drivesdk",
             "薬品構造解析学_第3回_文字起こし（校訂済）.txt": "https://drive.google.com/file/d/1ccQn4KEIruYxGHluEbE9wmN81juF7BOd/view?usp=drivesdk",
             "薬品構造解析学_第3回_録音.m4a": "https://drive.google.com/file/d/1YKwk0urTYMQ-d_weuW-Igouz14UJAB3C/view?usp=drivesdk"
@@ -1358,6 +1431,7 @@
           "name": "第1回",
           "files": [
             "薬理学3_第1回_復習ノート（神経・筋肉・臓器機能と薬の作用）.txt",
+            "薬理学3_第1回_授業の要点・復習ノート.txt",
             "薬理学3_第1回_文字起こし（タイムスタンプ付き）.txt",
             "薬理学3_第1回_文字起こし（再生HTML）.html",
             "薬理学3_第1回_文字起こし（校訂済）.txt",
@@ -1366,6 +1440,7 @@
           ],
           "file_links": {
             "薬理学3_第1回_復習ノート（神経・筋肉・臓器機能と薬の作用）.txt": "https://drive.google.com/file/d/1YPQY7l5RGlIF8vzfkvJyqGyATLbaJnjE/view?usp=drivesdk",
+            "薬理学3_第1回_授業の要点・復習ノート.txt": "https://drive.google.com/file/d/1dRp6h8B_heO4qjIXk96j8yMIEA6GNQW6/view?usp=drivesdk",
             "薬理学3_第1回_文字起こし（タイムスタンプ付き）.txt": "https://drive.google.com/file/d/160PoxyjTv9DrUB6u9ayTNEkScKgWCd8_/view?usp=drivesdk",
             "薬理学3_第1回_文字起こし（再生HTML）.html": "https://drive.google.com/file/d/1KqT_FW6ayTPx9ZF-P7NiUQlIbILqwtcZ/view?usp=drivesdk",
             "薬理学3_第1回_文字起こし（校訂済）.txt": "https://drive.google.com/file/d/1r9dTsVC4p-VSjcVyU8Y09k_wEBO1cTkT/view?usp=drivesdk",
@@ -1377,6 +1452,7 @@
           "name": "第2回",
           "files": [
             "薬理学3_第2回_循環器作用薬概論.pdf",
+            "薬理学3_第2回_授業の要点・復習ノート.txt",
             "薬理学3_第2回_文字起こし（タイムスタンプ付き）.txt",
             "薬理学3_第2回_文字起こし（一次校訂・タイムスタンプ付き）.txt",
             "薬理学3_第2回_文字起こし（講義資料照合・校訂版）.txt",
@@ -1384,6 +1460,7 @@
           ],
           "file_links": {
             "薬理学3_第2回_循環器作用薬概論.pdf": "https://drive.google.com/file/d/1Fiou2kW4r_JTe9t-fWT5ZZ1kl9QF3L8u/view?usp=drivesdk",
+            "薬理学3_第2回_授業の要点・復習ノート.txt": "https://drive.google.com/file/d/1dxQE61K_9SfpW2qrwz0k1eVE8-MuodaZ/view?usp=drivesdk",
             "薬理学3_第2回_文字起こし（タイムスタンプ付き）.txt": "https://drive.google.com/file/d/1JcOZVa4g2ibgteQZI97ph8VOHpVolH_V/view?usp=drivesdk",
             "薬理学3_第2回_文字起こし（一次校訂・タイムスタンプ付き）.txt": "https://drive.google.com/file/d/1t3ib3aV7U-8pBVU7HOLOiYTfJnsT4lA6/view?usp=drivesdk",
             "薬理学3_第2回_文字起こし（講義資料照合・校訂版）.txt": "https://drive.google.com/file/d/1lS18wSPeq2coe_S6_jJKa8lfdxuQFo2i/view?usp=drivesdk",
@@ -1394,6 +1471,7 @@
           "name": "第3回",
           "files": [
             "薬理学3_第3回_心不全治療薬.pdf",
+            "薬理学3_第3回_授業の要点・復習ノート.txt",
             "薬理学3_第3回_文字起こし（タイムスタンプ付き）.txt",
             "薬理学3_第3回_文字起こし（一次校訂・タイムスタンプ付き）.txt",
             "薬理学3_第3回_文字起こし（再生HTML）.html",
@@ -1403,6 +1481,7 @@
           ],
           "file_links": {
             "薬理学3_第3回_心不全治療薬.pdf": "https://drive.google.com/file/d/1plP2lDBzv90q1ChdKgotFIVCEkCeykk0/view?usp=drivesdk",
+            "薬理学3_第3回_授業の要点・復習ノート.txt": "https://drive.google.com/file/d/1Ow60Rg23Zhnrqi1vPoBvyYUotujy_CLe/view?usp=drivesdk",
             "薬理学3_第3回_文字起こし（タイムスタンプ付き）.txt": "https://drive.google.com/file/d/1QdWmezjRXaPjnpZj_NpL92r0-7mYfW-u/view?usp=drivesdk",
             "薬理学3_第3回_文字起こし（一次校訂・タイムスタンプ付き）.txt": "https://drive.google.com/file/d/1jiM9A8W5iLV5YF5ItCEx8ZfQX-uxf8qn/view?usp=drivesdk",
             "薬理学3_第3回_文字起こし（再生HTML）.html": "https://drive.google.com/file/d/12S3OuESzH52nz6ODE1ihkPv6EwBa028-/view?usp=drivesdk",
@@ -1414,6 +1493,7 @@
         {
           "name": "第4回",
           "files": [
+            "薬理学3_第4回_授業の要点・復習ノート.txt",
             "薬理学3_第4回_文字起こし（タイムスタンプ付き）.txt",
             "薬理学3_第4回_文字起こし（一次校訂・タイムスタンプ付き）.txt",
             "薬理学3_第4回_文字起こし（再生HTML）.html",
@@ -1423,6 +1503,7 @@
             "薬理学3_第4回_録音.m4a"
           ],
           "file_links": {
+            "薬理学3_第4回_授業の要点・復習ノート.txt": "https://drive.google.com/file/d/1S9lX3dUKFc7SniSbbtcL_ozzVcRXWje7/view?usp=drivesdk",
             "薬理学3_第4回_文字起こし（タイムスタンプ付き）.txt": "https://drive.google.com/file/d/1l-wwae9BvvR0eUqvvJtpo3o46Rzi5Qjp/view?usp=drivesdk",
             "薬理学3_第4回_文字起こし（一次校訂・タイムスタンプ付き）.txt": "https://drive.google.com/file/d/1pjSg1zoAkz5DuxeoKyadg8ny0i1nUHzb/view?usp=drivesdk",
             "薬理学3_第4回_文字起こし（再生HTML）.html": "https://drive.google.com/file/d/1gdo3OpNpSjOwnARmmKyV_cL1re-aoPmB/view?usp=drivesdk",
@@ -1478,6 +1559,7 @@
           "files": [
             "有機化学4_第1回_カルボン酸とその誘導体1（命名・構造・性質）.pdf",
             "有機化学4_第1回_カルボン酸とその誘導体1（命名・構造・性質）_別ファイル.pdf",
+            "有機化学4_第1回_授業の要点・復習ノート.txt",
             "有機化学4_第1回_文字起こし（タイムスタンプ付き）.txt",
             "有機化学4_第1回_文字起こし（再生HTML）.html",
             "有機化学4_第1回_文字起こし.txt",
@@ -1488,6 +1570,7 @@
           "file_links": {
             "有機化学4_第1回_カルボン酸とその誘導体1（命名・構造・性質）.pdf": "https://drive.google.com/file/d/1L2AFYIVYd3QN8qVuyfRxUWYgvVoH33_A/view?usp=drivesdk",
             "有機化学4_第1回_カルボン酸とその誘導体1（命名・構造・性質）_別ファイル.pdf": "https://drive.google.com/file/d/1vmhllP3mNOq-KnUg-606r-nTVYCcTbjn/view?usp=drivesdk",
+            "有機化学4_第1回_授業の要点・復習ノート.txt": "https://drive.google.com/file/d/1ggSSNSWwtazVnIcXbMRyheX1PfoTKjPB/view?usp=drivesdk",
             "有機化学4_第1回_文字起こし（タイムスタンプ付き）.txt": "https://drive.google.com/file/d/1cS2v8G_q-NTLLvtQ62Ik4GvGJPeZT5Lc/view?usp=drivesdk",
             "有機化学4_第1回_文字起こし（再生HTML）.html": "https://drive.google.com/file/d/1PPhZKAbY4buOAnXkwQbPtkAplfGydq-S/view?usp=drivesdk",
             "有機化学4_第1回_文字起こし.txt": "https://drive.google.com/file/d/1DaXpLCV_WENQl0xEI3qN25noFL_lKNjb/view?usp=drivesdk",
@@ -1501,6 +1584,7 @@
           "files": [
             "有機化学4_第2回_カルボン酸とその誘導体2（求核アシル置換）.pdf",
             "有機化学4_第2回_カルボン酸とその誘導体2（求核アシル置換）_別ファイル.pdf",
+            "有機化学4_第2回_授業の要点・復習ノート.txt",
             "有機化学4_第2回_文字起こし（タイムスタンプ付き）.txt",
             "有機化学4_第2回_文字起こし（講義資料照合・校訂版）.txt",
             "有機化学4_第2回_課題（22.58・22.65・22.68）.pdf",
@@ -1509,6 +1593,7 @@
           "file_links": {
             "有機化学4_第2回_カルボン酸とその誘導体2（求核アシル置換）.pdf": "https://drive.google.com/file/d/11opI746mNP6d3sCoo_F1T7pIfJcExR6O/view?usp=drivesdk",
             "有機化学4_第2回_カルボン酸とその誘導体2（求核アシル置換）_別ファイル.pdf": "https://drive.google.com/file/d/1xwbLLkeueX49huEb_qIcHjx2_SiEio7_/view?usp=drivesdk",
+            "有機化学4_第2回_授業の要点・復習ノート.txt": "https://drive.google.com/file/d/1MC8YoF-d_Hwn6ZJ7uJakAYBu9U5wx7zD/view?usp=drivesdk",
             "有機化学4_第2回_文字起こし（タイムスタンプ付き）.txt": "https://drive.google.com/file/d/1f0VFUVB0zmtB3SQpuCuhVVn-PvzOhE5a/view?usp=drivesdk",
             "有機化学4_第2回_文字起こし（講義資料照合・校訂版）.txt": "https://drive.google.com/file/d/1vRAcoCwrl5__wQ5lkzqXAiq9lvOOOVIA/view?usp=drivesdk",
             "有機化学4_第2回_課題（22.58・22.65・22.68）.pdf": "https://drive.google.com/file/d/1iPukWNzzVsOOW57ggjyatihndfKM6IUn/view?usp=drivesdk",
@@ -1520,6 +1605,7 @@
           "files": [
             "有機化学4_第3回_カルボン酸とその誘導体3（求核アシル置換・ニトリル）.pdf",
             "有機化学4_第3回_学習用解説（求核アシル置換の応用・ニトリル）.pdf",
+            "有機化学4_第3回_授業の要点・復習ノート.txt",
             "有機化学4_第3回_文字起こし（タイムスタンプ付き）.txt",
             "有機化学4_第3回_文字起こし（再生HTML）.html",
             "有機化学4_第3回_文字起こし.txt",
@@ -1530,6 +1616,7 @@
           "file_links": {
             "有機化学4_第3回_カルボン酸とその誘導体3（求核アシル置換・ニトリル）.pdf": "https://drive.google.com/file/d/1IZiP-xsSA_LzutUooNT0HBE6Qdh68rDg/view?usp=drivesdk",
             "有機化学4_第3回_学習用解説（求核アシル置換の応用・ニトリル）.pdf": "https://drive.google.com/file/d/1giyns1GhRX5ZHPeWZ7x2eeHm2dwGDfRO/view?usp=drivesdk",
+            "有機化学4_第3回_授業の要点・復習ノート.txt": "https://drive.google.com/file/d/1USxYp4CXbuVaawJae5YsLanTncR7I9be/view?usp=drivesdk",
             "有機化学4_第3回_文字起こし（タイムスタンプ付き）.txt": "https://drive.google.com/file/d/1Ig83eZsYGPa8JI2iVrPyFvz7yDswGWzM/view?usp=drivesdk",
             "有機化学4_第3回_文字起こし（再生HTML）.html": "https://drive.google.com/file/d/1R0QffEG4SwWGXXVuauqW_2ptcJ-geF2e/view?usp=drivesdk",
             "有機化学4_第3回_文字起こし.txt": "https://drive.google.com/file/d/1DhnkmeYS4iF5buiCoZ4Lhp0WJbr_E8AY/view?usp=drivesdk",
@@ -1542,6 +1629,7 @@
           "name": "第4回",
           "files": [
             "有機化学4_第4回_エノール・エノラートの化学1.pdf",
+            "有機化学4_第4回_授業の要点・復習ノート.txt",
             "有機化学4_第4回_文字起こし.txt",
             "有機化学4_第4回_文字起こし（タイムスタンプ付き）.txt",
             "有機化学4_第4回_文字起こし（再生HTML）.html",
@@ -1550,6 +1638,7 @@
           ],
           "file_links": {
             "有機化学4_第4回_エノール・エノラートの化学1.pdf": "https://drive.google.com/file/d/1eWh2aPxf8GZZ0KjOCZfOAhaq2XG65PjL/view?usp=drivesdk",
+            "有機化学4_第4回_授業の要点・復習ノート.txt": "https://drive.google.com/file/d/1QfHpjaz0FISr4jfT5OYoxKczABrzKvIO/view?usp=drivesdk",
             "有機化学4_第4回_文字起こし.txt": "https://drive.google.com/file/d/1xm0XTFZUroDN1JeiqkyJHuJ0wh7709BM/view?usp=drivesdk",
             "有機化学4_第4回_文字起こし（タイムスタンプ付き）.txt": "https://drive.google.com/file/d/1tq0ZJR2DVAYMaJgi0DSyksHODaMb8mwV/view?usp=drivesdk",
             "有機化学4_第4回_文字起こし（再生HTML）.html": "https://drive.google.com/file/d/1k5lZ1Od7v0VbqcduG3Wu1ZU_BJ5cYkgr/view?usp=drivesdk",
@@ -1561,6 +1650,7 @@
           "name": "第5回",
           "files": [
             "有機化学4_第5回_エノール・エノラートの化学2.pdf",
+            "有機化学4_第5回_授業の要点・復習ノート.txt",
             "有機化学4_第5回_文字起こし.txt",
             "有機化学4_第5回_文字起こし（タイムスタンプ付き）.txt",
             "有機化学4_第5回_文字起こし（再生HTML）.html",
@@ -1569,6 +1659,7 @@
           ],
           "file_links": {
             "有機化学4_第5回_エノール・エノラートの化学2.pdf": "https://drive.google.com/file/d/1e_xoMzGrt0J8ssjaXegwebN56HzltzmI/view?usp=drivesdk",
+            "有機化学4_第5回_授業の要点・復習ノート.txt": "https://drive.google.com/file/d/1riJVFaC3kx6DLNzD-wKTgDAuV9yAV_nK/view?usp=drivesdk",
             "有機化学4_第5回_文字起こし.txt": "https://drive.google.com/file/d/1Mg9SkpUMgk6vYN58MPmGmKUE8SXileYa/view?usp=drivesdk",
             "有機化学4_第5回_文字起こし（タイムスタンプ付き）.txt": "https://drive.google.com/file/d/1CUJeglkxxKtmVzed5drBZOLudz-Zi2yV/view?usp=drivesdk",
             "有機化学4_第5回_文字起こし（再生HTML）.html": "https://drive.google.com/file/d/17M17cO2Z_T0-HPAMSYyrxn9TMvUqOBr4/view?usp=drivesdk",
