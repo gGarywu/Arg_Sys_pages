@@ -4,6 +4,11 @@
     {
       "date": "2026-11-18",
       "title": "資料一覧を更新しました",
+      "description": "追加5件、削除36件、名称・分類・リンク変更0件を反映しました。16分類・510件を掲載しています。"
+    },
+    {
+      "date": "2026-11-18",
+      "title": "資料一覧を更新しました",
       "description": "追加78件、削除0件、名称・分類・リンク変更0件を反映しました。16分類・541件を掲載しています。"
     },
     {
@@ -243,39 +248,19 @@
           "name": "第6回",
           "files": [
             "衛生化学1_第6回_授業の要点・復習ノート.txt",
-            "衛生化学1_第6回_文字起こし（1）.txt",
-            "衛生化学1_第6回_文字起こし（1）（タイムスタンプ付き）.txt",
-            "衛生化学1_第6回_文字起こし（1）（再生HTML）.html",
-            "衛生化学1_第6回_文字起こし（1）（講義資料照合・校訂版）.txt",
-            "衛生化学1_第6回_文字起こし（2）.txt",
-            "衛生化学1_第6回_文字起こし（2）（タイムスタンプ付き）.txt",
-            "衛生化学1_第6回_文字起こし（2）（再生HTML）.html",
-            "衛生化学1_第6回_文字起こし（2）（講義資料照合・校訂版）.txt",
-            "衛生化学1_第6回_文字起こし（3）.txt",
-            "衛生化学1_第6回_文字起こし（3）（タイムスタンプ付き）.txt",
-            "衛生化学1_第6回_文字起こし（3）（再生HTML）.html",
-            "衛生化学1_第6回_文字起こし（3）（講義資料照合・校訂版）.txt",
-            "衛生化学1_第6回_録音（1）.m4a",
-            "衛生化学1_第6回_録音（2）.m4a",
-            "衛生化学1_第6回_録音（3）.m4a"
+            "衛生化学1_第6回_文字起こし（タイムスタンプ付き・統合版）.txt",
+            "衛生化学1_第6回_文字起こし（再生HTML・統合版）.html",
+            "衛生化学1_第6回_文字起こし（統合版）.txt",
+            "衛生化学1_第6回_文字起こし（講義資料照合・校訂版・統合版）.txt",
+            "衛生化学1_第6回_録音（統合版）.m4a"
           ],
           "file_links": {
             "衛生化学1_第6回_授業の要点・復習ノート.txt": "https://drive.google.com/file/d/17KqzyTYkz8R6E1SKvygyg-Rh8-BtntH2/view?usp=drivesdk",
-            "衛生化学1_第6回_文字起こし（1）.txt": "https://drive.google.com/file/d/1QiC__5Xb5qsp99QBbN0GOKuc_H4vsRKK/view?usp=drivesdk",
-            "衛生化学1_第6回_文字起こし（1）（タイムスタンプ付き）.txt": "https://drive.google.com/file/d/19yavtKM8TvUfRFDEj4wdVfmd7sJzlqpS/view?usp=drivesdk",
-            "衛生化学1_第6回_文字起こし（1）（再生HTML）.html": "https://drive.google.com/file/d/1xZSVQ7obet59_tIjwssW7ZvIKx_JKf-C/view?usp=drivesdk",
-            "衛生化学1_第6回_文字起こし（1）（講義資料照合・校訂版）.txt": "https://drive.google.com/file/d/1MnF9Qm_K7U2z22g-aCp-YV1zNR0KiT4n/view?usp=drivesdk",
-            "衛生化学1_第6回_文字起こし（2）.txt": "https://drive.google.com/file/d/1AbvC8G575mp0yd1MhMe3ayriL4F1qcYM/view?usp=drivesdk",
-            "衛生化学1_第6回_文字起こし（2）（タイムスタンプ付き）.txt": "https://drive.google.com/file/d/1CHTnCgVUgOSOr1Lb3Lt4FjVoU3amMBbh/view?usp=drivesdk",
-            "衛生化学1_第6回_文字起こし（2）（再生HTML）.html": "https://drive.google.com/file/d/1cLpB3vIgjgQTiEwRSu1czhMEKeTlLdQC/view?usp=drivesdk",
-            "衛生化学1_第6回_文字起こし（2）（講義資料照合・校訂版）.txt": "https://drive.google.com/file/d/1giCLC7RhMbCtMMLW61EaW9MwBkjDE4Z-/view?usp=drivesdk",
-            "衛生化学1_第6回_文字起こし（3）.txt": "https://drive.google.com/file/d/1G4jE1JWoRjvk4lg-ClvlR7MOK5l9t0Go/view?usp=drivesdk",
-            "衛生化学1_第6回_文字起こし（3）（タイムスタンプ付き）.txt": "https://drive.google.com/file/d/1cTcLRE7JfsMI4Ysnty-TespZQ3AupJcp/view?usp=drivesdk",
-            "衛生化学1_第6回_文字起こし（3）（再生HTML）.html": "https://drive.google.com/file/d/1lfxIQhlaFA-eCsqu3FMFv6cNlJpz9FnK/view?usp=drivesdk",
-            "衛生化学1_第6回_文字起こし（3）（講義資料照合・校訂版）.txt": "https://drive.google.com/file/d/1H1sY9ZNmh6J-LA9k3Un2Ks-5Bvv7mNEY/view?usp=drivesdk",
-            "衛生化学1_第6回_録音（1）.m4a": "https://drive.google.com/file/d/1oYdFMrnr76gUYECe_MiVBw30DEXWh4t1/view?usp=drivesdk",
-            "衛生化学1_第6回_録音（2）.m4a": "https://drive.google.com/file/d/1YLzboe3L7ylGDa2L0nuCbUPsTFEhF0Vo/view?usp=drivesdk",
-            "衛生化学1_第6回_録音（3）.m4a": "https://drive.google.com/file/d/1xMBMfmXopt9DIy_YtaqDH3W_bY5UdqH5/view?usp=drivesdk"
+            "衛生化学1_第6回_文字起こし（タイムスタンプ付き・統合版）.txt": "https://drive.google.com/file/d/1vnguINmFuOxx1kZ16AWtfW65ZdgihkIP/view?usp=drivesdk",
+            "衛生化学1_第6回_文字起こし（再生HTML・統合版）.html": "https://drive.google.com/file/d/1bDD4-y2BfwKNC9iMHX9XRCLAaEOCJvtF/view?usp=drivesdk",
+            "衛生化学1_第6回_文字起こし（統合版）.txt": "https://drive.google.com/file/d/1-QGXjaEBl4HPm-VVbHSG6My_s9qyJez1/view?usp=drivesdk",
+            "衛生化学1_第6回_文字起こし（講義資料照合・校訂版・統合版）.txt": "https://drive.google.com/file/d/1aKCAPkgvlJLni9oN4fHPs-awD_41yXQb/view?usp=drivesdk",
+            "衛生化学1_第6回_録音（統合版）.m4a": "https://drive.google.com/file/d/1-LszN8X2iw9oXQF_ulDPGoGeJ8TUq85X/view?usp=drivesdk"
           }
         },
         {
@@ -1832,21 +1817,6 @@
       "term": "2026年度 後期",
       "lessons": [
         {
-          "name": "共通資料",
-          "files": [
-            "構造薬学実習_共通_分析化学実習ガイダンス・容量分析の基礎.pdf",
-            "構造薬学実習_共通_実習書（分析化学・物理化学）（2026年度）.pdf",
-            "構造薬学実習_共通_物理化学実習ガイダンス・日程・注意事項（2026年度）.pdf",
-            "構造薬学実習_分析化学_共通参考資料（体積計・電子天びんの操作）.pdf"
-          ],
-          "file_links": {
-            "構造薬学実習_共通_分析化学実習ガイダンス・容量分析の基礎.pdf": "https://drive.google.com/file/d/14ZB6TaWHmgR18nVW5OTD_Z1cKMm4SU2x/view?usp=drivesdk",
-            "構造薬学実習_共通_実習書（分析化学・物理化学）（2026年度）.pdf": "https://drive.google.com/file/d/1ePfyOe57dfRFW8bob7OOq6SIM5l68z0G/view?usp=drivesdk",
-            "構造薬学実習_共通_物理化学実習ガイダンス・日程・注意事項（2026年度）.pdf": "https://drive.google.com/file/d/1Rr-skWvfnkiuem_Ag8wsl-C8o4mVnYLy/view?usp=drivesdk",
-            "構造薬学実習_分析化学_共通参考資料（体積計・電子天びんの操作）.pdf": "https://drive.google.com/file/d/1DcooncwCSyfvqJmi1YPguTXx9txbfQLJ/view?usp=drivesdk"
-          }
-        },
-        {
           "name": "分析化学_データ・レポート",
           "files": [
             "data.xlsx",
@@ -1879,7 +1849,6 @@
             "S__55885831.jpg",
             "S__55885832.jpg",
             "実習1.pdf",
-            "構造薬学実習_物理化学_項目1_イオン選択電極・電導度測定データ.xlsx",
             "補足.txt",
             "酢酸・飲料電位・KCl添加測定データ"
           ],
@@ -1890,18 +1859,8 @@
             "S__55885831.jpg": "https://drive.google.com/file/d/1vz8nglYyl269jhiwRzOLrQSSuhNxE6IP/view?usp=drivesdk",
             "S__55885832.jpg": "https://drive.google.com/file/d/1CHO0ehDm4gvpsQnc-KtB6n7Dzq5DK40f/view?usp=drivesdk",
             "実習1.pdf": "https://drive.google.com/file/d/1etHyxmmNbkzigvexIBAgwbZv8rILRBDB/view?usp=drivesdk",
-            "構造薬学実習_物理化学_項目1_イオン選択電極・電導度測定データ.xlsx": "https://docs.google.com/spreadsheets/d/1kUrz3pXdX_qQ6ywsOIUmO1oUgaINNZ8-/edit?usp=drivesdk&ouid=114343932978320321222&rtpof=true&sd=true",
             "補足.txt": "https://drive.google.com/file/d/1zU7IE1CdaK3hKW_FZqOdzA17uxIn-fVc/view?usp=drivesdk",
             "酢酸・飲料電位・KCl添加測定データ": "https://docs.google.com/spreadsheets/d/1xTK4KBZTiwnYmokWpxg2EBBggX9nGyaaGcvaXUQ5770/edit?usp=drivesdk"
-          }
-        },
-        {
-          "name": "物理化学_項目2_酸解離平衡・緩衝液",
-          "files": [
-            "構造薬学実習_物理化学_項目2_酸解離平衡・緩衝液・滴定曲線データ.xlsx"
-          ],
-          "file_links": {
-            "構造薬学実習_物理化学_項目2_酸解離平衡・緩衝液・滴定曲線データ.xlsx": "https://docs.google.com/spreadsheets/d/18ufFm58LeexKiJdSEylZGwVNtoiUXXpr/edit?usp=drivesdk&ouid=114343932978320321222&rtpof=true&sd=true"
           }
         },
         {
@@ -1930,12 +1889,6 @@
             "pnp_pH11.txt",
             "PP共有用.xlsx",
             "PP共有用_Anal.xlsx",
-            "構造薬学実習_物理化学_項目3_MO（メチルオレンジ）UV-Visスペクトルデータ.xlsx",
-            "構造薬学実習_物理化学_項目3_pKa決定・CRの吸光度・pNP-MO-PP結果整理.xlsx",
-            "構造薬学実習_物理化学_項目3_pKa決定・コンゴーレッド吸光度測定記録.xlsx",
-            "構造薬学実習_物理化学_項目3_pKa測定用CR・pNP・MO・PP秤量値.pdf",
-            "構造薬学実習_物理化学_項目3_pNP・UV-Visスペクトルデータ.xlsx",
-            "構造薬学実習_物理化学_項目3_PP（フェノールフタレイン）UV-Visデータ_AグループⅢ班共有用.xlsx",
             "物理３.docx",
             "物理３.xlsx"
           ],
@@ -1963,12 +1916,6 @@
             "pnp_pH11.txt": "https://drive.google.com/file/d/1nNqIbJ9V4iYoJ1MntfFuGfMRsvs9FboW/view?usp=drivesdk",
             "PP共有用.xlsx": "https://docs.google.com/spreadsheets/d/1hNbXHhbFZBDuwQ13UNsDp3WNMYlczqQi/edit?usp=drivesdk&ouid=114343932978320321222&rtpof=true&sd=true",
             "PP共有用_Anal.xlsx": "https://docs.google.com/spreadsheets/d/1Q7UfRzYZWsuYqk_5jaN81t56axCMxx8o/edit?usp=drivesdk&ouid=114343932978320321222&rtpof=true&sd=true",
-            "構造薬学実習_物理化学_項目3_MO（メチルオレンジ）UV-Visスペクトルデータ.xlsx": "https://docs.google.com/spreadsheets/d/1db9nYYW_omJhmgGqnuW-lZLVCEc6Okcz/edit?usp=drivesdk&ouid=114343932978320321222&rtpof=true&sd=true",
-            "構造薬学実習_物理化学_項目3_pKa決定・CRの吸光度・pNP-MO-PP結果整理.xlsx": "https://docs.google.com/spreadsheets/d/1LnDDis_cHQDT2f33kyogLd9unp4GT3Ml/edit?usp=drivesdk&ouid=114343932978320321222&rtpof=true&sd=true",
-            "構造薬学実習_物理化学_項目3_pKa決定・コンゴーレッド吸光度測定記録.xlsx": "https://docs.google.com/spreadsheets/d/1mT1wjT3EAS5bzmyqatQ6x5LlaKroRX4-/edit?usp=drivesdk&ouid=114343932978320321222&rtpof=true&sd=true",
-            "構造薬学実習_物理化学_項目3_pKa測定用CR・pNP・MO・PP秤量値.pdf": "https://drive.google.com/file/d/1LgGWnMKrfm_LRavFCvlHP6DYnVEWH7r6/view?usp=drivesdk",
-            "構造薬学実習_物理化学_項目3_pNP・UV-Visスペクトルデータ.xlsx": "https://docs.google.com/spreadsheets/d/1MoqHbOtlJURKvrKLudQM8nvA9B-scGfS/edit?usp=drivesdk&ouid=114343932978320321222&rtpof=true&sd=true",
-            "構造薬学実習_物理化学_項目3_PP（フェノールフタレイン）UV-Visデータ_AグループⅢ班共有用.xlsx": "https://docs.google.com/spreadsheets/d/1eRqr2dS6Ujz3C9KAMNgyemE28wCROrpm/edit?usp=drivesdk&ouid=114343932978320321222&rtpof=true&sd=true",
             "物理３.docx": "https://docs.google.com/document/d/1HEb3UZWWsx6RG4H6kPZmLt0O5emYG3ho/edit?usp=drivesdk&ouid=114343932978320321222&rtpof=true&sd=true",
             "物理３.xlsx": "https://docs.google.com/spreadsheets/d/1-2FU6LniYF3TB9A0jQmjmhoYD_J501Mw/edit?usp=drivesdk&ouid=114343932978320321222&rtpof=true&sd=true"
           }
@@ -1987,11 +1934,6 @@
             "図１.jpg",
             "実験１結果.jpg",
             "実験２結果.jpg",
-            "構造薬学実習_物理化学_項目4_オンライン実習説明・トリプトファン側鎖環境解析（抜粋）.pdf",
-            "構造薬学実習_物理化学_項目4_オンライン実験結果（フルオレセイン・蛍光消光）.pdf",
-            "構造薬学実習_物理化学_項目4_レポート課題（フルオレセイン・タンパク質蛍光消光）.pdf",
-            "構造薬学実習_物理化学_項目4_参考資料1・タンパク質配列と蛍光消光（Stern-Volmer）.pdf",
-            "構造薬学実習_物理化学_項目4_参考資料2・蛍光スペクトルの応用（rev）.pdf",
             "結果New_瘦身.pdf"
           ],
           "file_links": {
@@ -2006,11 +1948,6 @@
             "図１.jpg": "https://drive.google.com/file/d/1VidEsbLYNkh40uFLTH7N4c4YjXs7tAkv/view?usp=drivesdk",
             "実験１結果.jpg": "https://drive.google.com/file/d/1Amn44-qMF2WA6BC02bp-T1P2-K1u6ma8/view?usp=drivesdk",
             "実験２結果.jpg": "https://drive.google.com/file/d/1RDp77zFWs0OVcwudpVDkez7WfiT1zPvJ/view?usp=drivesdk",
-            "構造薬学実習_物理化学_項目4_オンライン実習説明・トリプトファン側鎖環境解析（抜粋）.pdf": "https://drive.google.com/file/d/1KeTBf2VRNtuP-rS7f4WPV0ndkKuPv0sB/view?usp=drivesdk",
-            "構造薬学実習_物理化学_項目4_オンライン実験結果（フルオレセイン・蛍光消光）.pdf": "https://drive.google.com/file/d/1sS7MzGbi-at8HqjzvyPrandZa15eRW3M/view?usp=drivesdk",
-            "構造薬学実習_物理化学_項目4_レポート課題（フルオレセイン・タンパク質蛍光消光）.pdf": "https://drive.google.com/file/d/1nrHLOhai2zzfM0DII-98-f_iEQSB7cPw/view?usp=drivesdk",
-            "構造薬学実習_物理化学_項目4_参考資料1・タンパク質配列と蛍光消光（Stern-Volmer）.pdf": "https://drive.google.com/file/d/1AIwqP8FQfglrk6Tzl_bk6CQpv8V3kXzp/view?usp=drivesdk",
-            "構造薬学実習_物理化学_項目4_参考資料2・蛍光スペクトルの応用（rev）.pdf": "https://drive.google.com/file/d/1CoyVTrexnXLFtECIQpZoXdnO9859aHKJ/view?usp=drivesdk",
             "結果New_瘦身.pdf": "https://drive.google.com/file/d/1x78Gv3jkazNdAyN2dB-O2Iq0m9D1s0f4/view?usp=drivesdk"
           }
         },
@@ -2020,7 +1957,6 @@
             "Anly.xlsx",
             "log.txt",
             "レポート内容.jpg",
-            "構造薬学実習_物理化学_項目5_SDS-PAGE泳動距離・吸光度測定データ.xlsx",
             "溶液配置.png",
             "考察A.jpg",
             "計算指示.jpg"
@@ -2029,7 +1965,6 @@
             "Anly.xlsx": "https://docs.google.com/spreadsheets/d/1lot7ppgMNa7tkecgbEZdN3bZInSbIRTG/edit?usp=drivesdk&ouid=114343932978320321222&rtpof=true&sd=true",
             "log.txt": "https://drive.google.com/file/d/12FrHYL6fVMWOguIygF0lxHbHQEtXPF9e/view?usp=drivesdk",
             "レポート内容.jpg": "https://drive.google.com/file/d/1HgDwU4P6rHal1PXGET54i_-_fa0KyR9u/view?usp=drivesdk",
-            "構造薬学実習_物理化学_項目5_SDS-PAGE泳動距離・吸光度測定データ.xlsx": "https://docs.google.com/spreadsheets/d/1LPlolkmUZfzzkPkaDPPVTQcKg0ElTt6D/edit?usp=drivesdk&ouid=114343932978320321222&rtpof=true&sd=true",
             "溶液配置.png": "https://drive.google.com/file/d/1SvqjUiHWn0rDA0X_GguiIaAUvRNYYhj6/view?usp=drivesdk",
             "考察A.jpg": "https://drive.google.com/file/d/1gfs6to60k7dgUnTOsiC4_eGhy-VrYx5-/view?usp=drivesdk",
             "計算指示.jpg": "https://drive.google.com/file/d/1JeJe5F45hasmezaBMtqtFC1ZltrzO_Iu/view?usp=drivesdk"
@@ -2038,15 +1973,9 @@
         {
           "name": "物理化学_項目6_赤外吸収スペクトル",
           "files": [
-            "構造薬学実習_物理化学_項目6_赤外スペクトル測定例（空気・CS2・ベンズヒドロール）.pdf",
-            "構造薬学実習_物理化学_項目6_赤外吸収スペクトル・レポート課題（2026年度）.pdf",
-            "構造薬学実習_物理化学_項目6_赤外吸収スペクトル演習（2026年度）.pdf",
             "課題.png"
           ],
           "file_links": {
-            "構造薬学実習_物理化学_項目6_赤外スペクトル測定例（空気・CS2・ベンズヒドロール）.pdf": "https://drive.google.com/file/d/1DqChHozdveyuEIvFtI0Dy_C4arOR8738/view?usp=drivesdk",
-            "構造薬学実習_物理化学_項目6_赤外吸収スペクトル・レポート課題（2026年度）.pdf": "https://drive.google.com/file/d/1z1IRxQw9Py2xYvnE4hlKfK6JCdD2WoNS/view?usp=drivesdk",
-            "構造薬学実習_物理化学_項目6_赤外吸収スペクトル演習（2026年度）.pdf": "https://drive.google.com/file/d/1ggPxsR7DdMruN0xfWvECLd-Su7xqMV42/view?usp=drivesdk",
             "課題.png": "https://drive.google.com/file/d/15WHGbUPncLOWK1Och28uGVld7-5i_bWR/view?usp=drivesdk"
           }
         }
